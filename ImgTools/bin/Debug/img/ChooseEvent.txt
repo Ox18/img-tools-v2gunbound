@@ -1,0 +1,5 @@
+; Event No.	; Command	; Bonus GP%	; Bonus Gold	; Auto Run	; Background Only	; Event Music
+0	gunbound	0	0	N	N	N
+1	cjswoshrdua	0	0	N	Y	Y
+2	capturetheflag	0	0	N	Y	Y
+3	match	0	0	N	Y	Y

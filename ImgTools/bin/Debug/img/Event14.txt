@@ -1,0 +1,5 @@
+;Event No.;MB	;MH	;MG	;MF	;FB	;FH	;FG	;FF	;Mobile	;Event	;BonusGP;BonusGold;Win Score;Lose Score;use rand
+0	-1	-1	-1	-1	-1	-1	-1	-1	-1	3	0	0	1	0	0
+1	-1	-1	-1	-1	-1	-1	-1	-1	-1	0	0	0	0	0	0
+2	-1	-1	-1	-1	-1	-1	-1	-1	-1	0	0	0	0	0	0
+3	-1	-1	-1	-1	-1	-1	-1	-1	-1	0	0	0	0	0	0

@@ -1,0 +1,24 @@
+C:\Documents and Settings\CARLOS\Escritorio\Img-Tools-Gunbound\ImgTools\bin\Debug\ImgTools.exe
+C:\Documents and Settings\CARLOS\Escritorio\Img-Tools-Gunbound\ImgTools\bin\Debug\ImgTools.pdb
+C:\Documents and Settings\CARLOS\Escritorio\Img-Tools-Gunbound\ImgTools\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\CARLOS\Escritorio\Img-Tools-Gunbound\ImgTools\obj\Debug\ImgTools.AnimationBox.resources
+C:\Documents and Settings\CARLOS\Escritorio\Img-Tools-Gunbound\ImgTools\obj\Debug\ImgTools.AudioBox.resources
+C:\Documents and Settings\CARLOS\Escritorio\Img-Tools-Gunbound\ImgTools\obj\Debug\ImgTools.FileTabSheet.resources
+C:\Documents and Settings\CARLOS\Escritorio\Img-Tools-Gunbound\ImgTools\obj\Debug\ImgTools.Form1.resources
+C:\Documents and Settings\CARLOS\Escritorio\Img-Tools-Gunbound\ImgTools\obj\Debug\ImgTools.csproj.GenerateResource.Cache
+C:\Documents and Settings\CARLOS\Escritorio\Img-Tools-Gunbound\ImgTools\obj\Debug\ImgTools.exe
+C:\Documents and Settings\CARLOS\Escritorio\Img-Tools-Gunbound\ImgTools\obj\Debug\ImgTools.pdb
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\ImgTools\bin\Debug\ImgTools.exe
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\ImgTools\bin\Debug\ImgTools.pdb
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\ImgTools\obj\Debug\ImgTools.AnimationBox.resources
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\ImgTools\obj\Debug\ImgTools.AudioBox.resources
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\ImgTools\obj\Debug\ImgTools.FileTabSheet.resources
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\ImgTools\obj\Debug\ImgTools.Form1.resources
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\ImgTools\obj\Debug\ImgTools.csproj.GenerateResource.cache
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\ImgTools\obj\Debug\ImgTools.csproj.CoreCompileInputs.cache
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\ImgTools\obj\Debug\ImgTools.exe
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\ImgTools\obj\Debug\ImgTools.pdb
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\ImgTools\bin\Debug\stdole.dll
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\ImgTools\obj\Debug\ImgTools.csproj.CopyComplete
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\ImgTools\obj\Debug\ImgTools.csprojAssemblyReference.cache
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\ImgTools\obj\Debug\ImgTools.Properties.Resources.resources

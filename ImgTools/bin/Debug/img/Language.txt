@@ -1,0 +1,1560 @@
+200	Message Code: 200\nCheck if your internet is working properly. If there’s no problem with internet service check the firewall setting.
+201	Message Code: 201\n%s\nNetwork problem or waiting time was too long.\nThe server connection is closed.\nPlease try again later.
+202	Message Code: 202\nServer Error.\nPlease try again later.
+203	Message Code: 203\nThere were errors on server functions.\nPlease try again later.
+204	Message Code: 204\nUnregistered ID.\nPlease make a new ID.
+205	Message Code: 205\nWrong password.\nPlease check your password.
+206	Message Code: 206\nYour ID can not be used on GIS.\nPlease use your local Gunbound service. Please report to http://gunbound.softnyx.net>customer care>ask to GM>Q&A. 
+207	You need the Event Ticket to join the Event Zone.
+208	Message Code: 208\nThe Internal data has been changed.\nPlease restart GunBound.
+209	Message Code: 209\nToo many users in the channel.\nPlease try a different channel.
+210	Message Code: 210\nCannot create a channel.\nPlease use existing channels.
+211	Message Code: 211\nYou are already inside the channel.
+212	Message Code: 212\nToo many users in the room.\nPlease try a different room.
+213	Message Code: 213\nCan't create a room.\nPlease use one of the existing rooms.
+214	Message Code: 214\nYou are already inside the room.
+215	Message Code: 215\nThe game has already started.\nYou cannot enter.
+216	Message Code: 216\n\nCan't start yet.
+217	Message Code: 217\nServer connection closed\n\nOther user is trying to login with the same ID.\nThe connection closed.
+218	Message Code: 218\nCan't communicate or invite others due to community error.
+219	Message Code: 219\nAccess Forbidden\nThis is the forbidden ID\nConnection closed.
+220	Message Code: 220\nWrong version.\nConnection closed.\nPlease try agian a few minute later.
+221	Message Code: 221\nYou can't connect to Event Zone.\nIf you click V, you can get more information.
+222	Message Code: 222\nServer Connection Closed\n%s's game connection is forbidden.\nConnection closed.
+223	Message Code: 223\nServer Connection Closed\n%s's guild game connection is forbidden.\nConnection closed.
+224	Message Code: 224\nData Modification\nImportant file was modified.\nApplication terminated.
+225	Message Code: 225\nGame Interfered\nFlooding the chat rooms can interrupt other users.\nRepeated offence may lead to ID bans.\nGame will shut down.
+226	Message Code: 226\nDon't have enough money.\nPlease select a different item.
+227	Message Code: 227\nInternal Data Error -2\nInternal data has been modified.\nPlease restart GunBound Game.
+228	Message Code: 228\nThis Server has a level limit.\nPlease select a different server.
+229	Message Code: 229\nThis Server in for guild members only.\nPlease select a different server.
+230	Message Code: 230\nThis server is for non-guild members only.\nPlease select a different server.
+231	Message Code: 231\nYour guild cannot access this server.\nPlease select a different server.
+232	Message Code: 232\nThis ID does not exist.\nPlease check you ID.
+233	Message Code: 233\nCannot Sell cash items.
+234	Message Code: 234\nCannot Sell event items.
+235	Message Code: 235\nCannot sell gifted items.
+236	Message Code: 236\nCannot send gifted items to others as a gift.
+237	Message Code: 237\nTried to send non-existing item(s).\nPlease retry.
+238	Message Code: 238\nSending Gift\nThe gift has been sent.
+239	Message Code: 239\nCommunication error. Game will shut down.
+240	Message Code: 240\nData communication error.\nPlease restart GunBound.\nGame will shut down.
+241	Message Code: 241\nCannot buy more items as you have reached your closet space limit. (100).\nPlease sell or delete an avatar and try again.
+242	Message Code: 242\nRoom Creation Restriction\n\nCannot create rooms in the chosen server.\nPlease select a different server or join an existing room..
+243	Message Code: 243\nYou have attempted to sell or delete a non-existent item(s).\nPlease try again.
+244	Message Code: 244\nUnder maintenance.\n(Estimated Date : ~ August 13th , Tuesday)
+245	Message Code: 245\nSurrender the game?\nTo Surrender this game, you will need to give your team members 100 gold each as penalty.
+246	Message Code: 246\nYou have too many item(s). \nPlease delete or sell unnecessary item(s).\n(You can only have up to 100 items)
+247	Message Code: 247\nServer Connection Terminates\nInformation has been modified and you will need to relogin.\nConnection closed.
+248	Message Code: 248\nBilling]Insufficient funds
+249	Message Code: 249\nBilling]Invalid
+
+250	Message Code: 250\nBilling]User does not exist.
+251	Message Code: 251\nBilling]Other Error.
+252	Message Code: 252\nUnidentified Error.
+253	Error\n\nThe ID does not exist.
+254	Message Code: 254\nBilling Error\n\nSystem maintenance time. \nPlease login later.
+255	Message Code: 255\nBilling Error\n\n Adults Only.\nGame will shut down.
+256	Message Code: 256\nBilling Error\n\nPlease check your real name.\n
+257	Message Code: 257\nBilling Error\n\nYou have old version of security module.\n
+258	Message Code: 258\nBilling Error\n\nYou are already logged in.\n
+259	Message Code: 259\nBilling Error\n\nYour account has an error.\nPlease contact the customer service center. 
+260	Message Code: 260\nBilling Error\n\nInsufficient funds Game will shut down.\n 
+261	Message Code: 261\nBilling Error\n\nPlease make payment for service. Game will shut down.\n 
+262	Message Code: 262\nBilling Error\n\nNeed to update payment.\n
+269	Message Code: 269\nYour E-mail address is not verified.\nRestriction applies on the use of channel chatting and the avatar shop.\nPlease verify your E-mail from our web site at http://gunbound.softnyx.net
+270	Message Code: 270\nIP Confirmation email sent for registering IP to use the Avatar Shop.\n Please check your Email. 
+271	Message Code: 271\nGameGuard Error: 1001\nGameGuard Error: 1002 \nUnknown error.\nPlease retry after rebooting your PC.
+272	Message Code: 272\nGameGuard Error: 1014\nGame guard initialization error.\nPlease retry after rebooting your PC.
+273	Message Code: 273\nGameGuard Error: 1011\nSpeed hack detected.\nConnection closed.
+274	Message Code: 274\nGameGuard Error: 1012\nGame hack detected.
+275	Message Code: 275\nGameGuard Error: 1013\nGame hack detected.\nConnection closed.
+276	Message Code: 276\nGameGuard Error: 1015\nGame guard has been changed.\nConnection closed.
+277	Message Code: 277\nPlease check your Email\n\n Yout IP verification mail has been sent to verify your IP and allow access to the avatar shop.
+278	Message Code: 278\nRestriction on sending gift\n\nUsers under the level of Double Stone Axe are only allowed to receive the gift.\nGift sending function is available for users who are Metal Axe and above.
+279	Message Code: 278\Chinese Las error message.
+280	Message Code: 280\nYou cannot buy this Avatar\n Only level above %s  can purchase this Avatar.\nPlease, select another Avatar.
+281	Message Code: 281\nYour email is not verified.\nPlease visit http://gunbound.softnyx.net and verify your email.
+285	Message Code: 285\nFor the safety of your, the account gift function is restricted until %s.
+286	Message Code: 286\nItems recovered after a hack cannot be gifted to others.
+287	Message Code: 287\nThe IP that is currently proceeding Gunbound has been denied access by the user. Therefore it cannot be accessed by Gunbound. For more specific details visit IP Verify at our homepage.
+
+292	Message Code: 292\nClient File was modified.
+293	Message Code: 293\nYou have to charge cash for enter the Nyx Member Zone.
+
+300	Message Code: 300\nEssential files has been modified. Please re-install GunBound.
+301	Message Code: 301\nMobile data has been modified - %d, %d. Please re-install GunBound.
+302	Message Code: 302\nNo mobile data[%s]. Please re-install GunBound.
+303	Message Code: 303\nStage data has been modified - %d, %d.Please re-install GunBound.
+304	Message Code: 304\nNo stage data. Please re-install GunBound.
+305	Message Code: 305\nItem data has been modified - %d, %d.Please re-install GunBound.
+306	Message Code: 306\nNo item data [%s]. Please re-install GunBound.
+307	Message Code: 307\nGrahpic data has been modified - %d, %d.\n[%s]\nPlease re-install GunBound.
+308	Message Code: 308\nSound data has been modified - %d, %d.\n[%s]\nPlease re-install GunBound.
+309	Message Code: 309\nCan't initialize game.\nPlease try again after rebooting the computer.
+310	Message Code: 310\nNo 3D video card found or low video driver version.\nPlease try again after installing the latest Video card Driver.
+311	Message Code: 311\nYou must have Direct X 8.0 or above to run Gunbound. Please install Direct X.
+312	Message Code: 312\nNot enough video card memory to run GunBound.
+313	Message Code: 313\ nInsufficient video card memory to run GunBound. GunBound needs over 32 MB video memories. If you had run Gunbound after opening another 3D game, please try rebooting the computer.
+314	Message Code: 314\nCan't perform initialization to start game - %d. In this case turning off "Auto monitor regeneration frequency control" can solve the problem.
+315	Message Code: 315\nFile Error #1
+316	Message Code: 316\nEssential files have been erased #2 - Please re-install GunBound.
+317	Message Code: 317\nRunning Error #1
+318	http://gunbound.softnyx.net/03_how/01_download.asp
+319	http://gunbound.softnyx.net/03_how/02_install01.asp
+320	http://softnyx.net/customer_care/01_care_faq_gb.asp
+321	Flooding the chat rooms can interrupt other users.
+322	Message Code: 322\nAvatar Data has been updated\nyou must re-install Gunbound.
+323	Message Code: 323\nGameGuard Error : %d
+324	Message Code: 324\nPlease reconnect to the server. If problem persists, please contact us through Q&A.
+325	Message Code: 325\nYou don't have enough gold.\nEarn more gold in the game.
+326	Message Code: 326\nYou have to select "Receiver"
+
+350	Message Code: 350\n Shop Error
+351	Message Code: 351\The Current IP is out of your usual IP range. You will need to confirm this IP to enter the avatar shop. To confirm this IP click on "YES" and a confirmation mail will be sent to your registered e-mail address.  Open the mail and click on "Confirm".
+352	http://www.softnyx.net/02_Cash/03_Charge_00Base.asp
+353	Color Chatting is a feature that allows you to select your font color. This is to be added later.
+354	Horn allows you to send your message to all users in channels. This is to be added later.
+355	Mute blocks all messages by Horn. This is to be added later.
+356	You don't have bugle so you can't use it\n Do you want to purchase it?\nIf you use Bugle Item, you can loud in the whole server.
+357	You don't insert message!\nPlease write any message that you want to loud.
+358	You don't have color chatting item. Do you want to purchase it?
+359	http://event.softnyx.net/Australia/main.asp
+360	Welcome to Gunbound World! \nAs you are a new user, you will not pay a team penalty fee till you reach to certain level 
+361	Congratulation! \nYou just acquired the Gunbound expert license. As you are Gunnbound expert, you will have to pay a penalty fee for team penalty 
+	
+400	Can't connect to server.
+401	Please try little later.
+402	Unidentified ID.
+403	Unregistered ID.
+404	Wrong ID Login Error.
+405	Can't use this IP.
+406	Please try little later.
+407	Forbidden ID.
+408	Wrong version.
+409	ID already in use.
+410	%s's connection is forbidden.
+411	%s's guild's connection is forbidden.
+412	Server Connection Error.
+413	Login Error.
+414	Connection timeout.
+
+500	GunBound Command List\n/h, /help, /guide : command list watch\n/kick : Kick out a user from the game waiting room\n/key :Show shortcut keys in game\n/go : go to a specific room number\n/mute : block a certa (number of ppl in the mutelist)\n/loudall : Reset Mute List (reset all mute list)
+501	How to use message command\n/m ID message content\n/to ID message content\n/message ID message content.
+502	Kick command can only be used in waiting rooms.
+503	kick command can only be used by room master.
+504	GunBound Shortcut Key List\nTAB: change weapon(basic<->special)\nF1~F6 : item use/select\nF7 : character change\nF8 : skip turn
+505	Go command can only be used in channels.
+506	How to use go command\n/go room number
+507	How to use mute command\n/mute ID [ID..}
+508	Message denied IDs - %d
+509	How to use loud command\n/loud ID [ID …]
+510	%s\'s message is blocked.
+511	%s\'s message is shown.
+512	Show all the message of users.
+513	User information of room number %d
+514	Please use polite and proper words.
+515	User information for room %d
+516	%s is prohibited from chatting.(%d hour %02d minutes left)
+517	It seems like your password has been hacked. Please change your password and safeguard your new password.
+
+600	%s   [25 points received] %+dscore %+dG
+601	%s   [10 points received] %+dscore %+dG
+602	%s   [5 points received] %+dscore %+dG
+603	%s   [-5 points received] %+dscore %+dG
+604	Team A life expired.
+605	Team B life expired.
+606	%s   [Win Bonus received] %+dG
+607	%s has left the room.
+608	Network Connection Error : %s and %s(User will be disconnected in 30 seconds).
+;608	Network Connection Error : %s and %s(User will be disconnected in 30 seconds).
+609	%d turn left until Sudden Death.
+610	%s   [Bunge Shot Bonus] %+dG
+611	%s   [Team Kill Penalty] %+dG
+612	%s   [Suicide Penalty] %+dG
+613	%s   [Ending Bonus] %+dG
+614	%s   [Team Kill Penalty] %+dG
+615	Sudden Death Activated.
+616	%s   [Ultra High Angle Bonus] %+dG
+617	%s   [High Angle Bonus] %+dG
+618	%s   [Hurricane Bonus] %+dG
+619	%s   [Boomer Shot Bonus] %+dG
+620	%s   [Back Shot Bonus] %+dG
+621	%s   [Team Damage Penalty] %+dG
+622	%s   [Excellent Shot Bonus] %+dG
+623	%s   [Good Shot Bonus] %+dG
+624	%s   [Shot Bonus] %+dG
+625	%s   [1000 Damage Achieved] %+dG
+626	%s   [2000 Damage Achieved] %+dG
+627	%s   [3000 Damage Achieved] %+dG
+628	%s   [Double Kill Bonus] %+dG
+629	%s has been kicked out.
+630	GunBound has changed to basic mode.
+631	GunBound has changed to " Oh! Go Korea!" mode.
+632	<Item Changed> %s can be used.
+633	<Item Changed> %s cannot be used.
+634	Joining %d room
+635	to '%s' - %s
+636	  ===================== A Team Wins =====================
+637	  ===================== A Team Loses ====================
+638	  ===================== B Team Wins =====================
+639	  ===================== B Team Loses ====================
+640	                         Game Result
+641	%s   [Team Penalty Bonus] %+dG
+642	Connection with %s has delayed the game over 5 times. %s will now be disconnected.
+643	%s   [Mirror Shot Bonus] %+dG
+644	%s   [Losing award] %+dG
+
+; item 관련 : 주의 710 은 716으로 이어 지는 글임	
+700	Buy Item
+701	'%s'
+702	The item costs %dG,
+703	You will have %dG left.
+704	Males can't wear female's avatar item.
+705	Females can't wear male's avatar item.
+706	Buy this tiem?
+707	Sell Item.
+708	You want to sell '%s'
+709	Resale price is %dG,
+710	You will have %dG 
+711	Sell this item?
+712	Delete Item.
+713	You want to delete '%s'
+714	You will not receive any gold if you delete an item.
+715	Delete this item?
+716	Sell this item?
+
+800	Solo
+801	Score
+802	Tag
+803	Jewel
+804	%d vs %d
+805	Team by Team Position
+806	Mixed Position
+807	Random Position
+808	No Bomb
+809	Basic Bomb
+810	Attack Bomb
+811	Sudden Death Inactive
+812	%dTurn
+813	Inactive 
+814	Double Death
+815	Big Bomb Death
+816	SS Death
+817	PowerBall
+
+820	GunBound\nWorld list
+821	GunBound\nServer %d Game %d
+822	GunBound\nServer %d Avatar shop
+823	GunBound\nServer %d Channel %d
+824	World list
+825	Avatar shop
+
+830	Force
+831	Tornado
+832	Thunder
+833	Black
+834	Mirror
+835	Joker
+836	Dual Ball
+837	Force Ball
+838	Electric Ball
+839	Bomb Ball
+840	Gold Ball
+
+900	(Playing Gunbound)
+
+1000	Armor
+1001	Mage
+1002	Nak
+1003	Trico
+1004	Big Foot
+1005	Boomer
+1006	Raon Launcher
+1007	Lightning
+1008	JD
+1009	A.Sate
+1010	Ice
+1011	Turtle
+1012	Grub
+1013	Dragon
+1014	Knight
+1015	Aduka
+1016	Kalsiddon
+1017	J Frog 
+1018	Phoenix
+
+; Start	
+2001	Jewels, Way to go!
+2002	Ha ha :)
+2003	I gotta go~
+2004	What's your score?
+2005	Here we go~
+2006	Don't shoot me!
+2007	Stop hunting Jewels!
+2008	Hmmm?
+2009	T.T
+2010	Stay away!
+; Light Hit	
+2011	Phew~
+2012	What the heck?!
+2013	Is that it?
+2014	Don't tickle me.
+2015	huh?
+2016	Nice try!
+2017	Do your homework.
+2018	What’s your rank? Stone axe?
+2019	Come on, boy.
+2020	Is that’s your best shot?
+; Strong Hit	
+2021	That hurts!
+2022	Argh!
+2023	Who are you?
+2024	Hit me and I’ll give you minus points!
+2025	Bad luck to all who hits me.
+2026	Not bad...
+2027	Ouch!
+2028	Shoot.
+2029	On no! too much damage..
+2030	Darn it.
+; Ultimate Hit	
+2031	Barely alive.
+2032	Are you trying to kill me?
+2033	That was close...
+2034	Ouch!
+2035	Very close
+2036	Was that a dual shot?
+2037	You almost killed me!
+2038	Awwww!
+2039	OOPS!
+2040	Close but not good enough!
+; Dying (Not used)	
+
+; Reappearing drop	
+2050	I’m back~~
+2051	Get out of my way!
+2052	Time to rock and roll!
+2053	Great!
+2054	It’s time to party! 
+2055	One Raon coming down! 
+2056	Where’s the score board?
+2057	Did someone call me?
+2058	I'm coming down~
+2059	I'm falling~
+2060	Wheee!
+;Landing	
+2061	So, whose turn is it?
+2062	Ready for another match?
+2063	I'm here~
+2064	Another perfect landing!
+2065	Ready!
+2066	It’s not nice to shoot the new raon!
+2067	Yay~
+2068	Great party!
+2069	Sweet~
+2070	Let’s start!
+
+;	Showing information
+;3000	
+;3001	Total Ranking %7d Guild Ranking %3d/%3d
+;3002	Wining rate %d%%(%s %d%%)
+;3003	Mobile wins %s(%d%%),%s(%d%%)
+;3004	Average Damage %d
+
+;3100	
+;3101	Damage   ave %4d   max %4d   sum %5d
+;3102	Delay   ave %4d   max %4d   turn %4d
+
+;	바뀐 정보 보여주기
+3000	TRank  %7d
+3001	GRank  %3d/%3d
+3002	Winning rate  %d%%
+3003	Average hit  %d
+3004	Mobile wins  %s(%d%%)
+3005	          %s(%d%%)
+3006	CRank  %7d
+
+4000	To add your friends' ID, click on his/her ID in the channel.
+4001	%s'wants to add you to the Buddy List.\nDo you accept?
+4002	'%s' has accepted your Buddy invitation.
+4003	'%s' has rejected your Buddy invitation.
+4004	'%s'is already registered.
+4005	Delete '%s' from the buddy list?
+4006	You have just requested to add '%s' to your list.\nPlease wait for his/her reply.
+4007	You cannot add yourself to your list.
+4008	%s has sent you a present.
+4100	You have sent a successful report to the administrator.\nWe will check it out.
+
+4500	Power User
+4501	Match Event
+4502	Special
+4503	Softnyx Cafe+
+
+5000	# %s did a Double Kill in room %d
+
+6000	Billing message\n
+6001	No game time left.\n
+6002	No game time left. The game will shut down.\n
+6003	Refunded. The game will shut down.\n
+6004	Someone else logged in with your ID. The game will shut down.\n
+6005	Using the reserved payment in process.\n
+6006	Billing information could not received. The game will shut down.\n
+6007	Billing options : 
+6008	Monthly subscription\n
+6009	Daily payment\n
+6010	Fixed time limits\n
+6011	Game Account time remaining until : 
+6012	%2dMonth %2dDay %04dYear %02dHour %02dMinute\n
+6013	%s %2d, %04d\n
+6014	Time left : 
+6015	%2d hour %02dMinute %02dSecond
+6016	%2dhour %02dmin %02dsec
+
+;	Name of each rank
+7000	Silver Dragon
+7001	Red Dragon
+7002	Blue Dragon
+7003	Diamond Hole
+7004	Red Ruby Hole
+7005	Sapphire Hole
+7006	Violet Hole
+7007	Gold Double Sided Axe+
+7008	Gold Double Sided Axe
+7009	Silver Double Sided Axe+
+7010	Silver Double Sided Axe
+7011	Metal Double Sided Axe+
+7012	Metal Double Sided Axe
+7013	Double gold Axe
+7014	Gold Axe
+7015	Double Silver Axe
+7016	Silver Axe
+7017	Double Metal Axe
+7018	Metal Axe
+7019	Double Stone Axe
+7020	Stone Axe
+7021	Double Wood Axe
+7022	Wood Axe
+7023	A Little Chick
+
+
+9000	Screenshot saved as %s.
+
+10000	Gunbound changed to basic mode.
+10001	Gunbound is in 'Way to go, Korea!' mode.
+
+20000	Rank %8d 
+20001	%10d GP
+20002	GOLD : %8d
+20003	CASH : %8d
+
+;UserInfo	
+27000	GP
+27001	TotalGame
+27002	Win
+27003	Lose
+27004	Rate
+27005	Damage
+27006	Mobile
+27007	Map
+
+;Shortcut Key	
+28000	ESC
+28001	F1
+28002	F2
+28003	F3
+28004	F4
+28005	F5
+28006	F6
+28007	F7
+28008	F8
+28009	F9
+28010	F10
+28011	F11
+28012	F12
+
+30000	Message Code: %d
+30001	GameGuard Error: %d\nGameMon is already running. Close GameMon process or reboot and execute again.
+30002	GameGuard Error: %d\nGame is executed multiple times, or GameGuard is already running. Close the game and restart.
+30003	GameGuard Error: %d\nFailed to initialize GameMon. Try rebooting or closing possible programs that can cause a collision.
+30004	GameGuard Error: %d\nGameGuard.des does not exist or is corrupted. Re-install of GameGuard setup file can solve this problem.
+30005	GameGuard Error: %d\nWindows System file is damaged. It is recommended to check virus, and reinstall Internet Explorer or rsabase.dll in the system folder according to Internet Explorer version.
+30006	GameGuard Error: %d\nFailed to execute GameGuard process. Reinstall the GameGuard setup file and try running the game again.
+30007	GameGuard Error: %d\nAn illegal program has been detected. Close unnecessary programs and try again.
+30008	GameGuard Error: %d\nCancel(Abort) button has been clicked while updating. If it is due to the failure of connection, try connecting again or confirm its network status.
+30009	GameGuard Error: %d\nFailed to connect to the GameGuard update server. Try connecting again in a while, or check the network connection.
+30010	GameGuard Error: %d\nUpdate is not successful or GameGuard file is corrupted. Try again in a minute, or check the firewall settings.
+30011	GameGuard Error: %d\nFailed to load modules for checking viruses and hacking tools. Possible causes are lack of memory and virus infection.
+30012	GameGuard Error: %d\nGameGuard.des file does not exist or is modified. This can be resolved by installing GameGuard setup file.
+30013	GameGuard Error: %d\nGameGuard.des file does not exist or is modified. This can be resolved by installing GameGuard setup file.
+30014	GameGuard Error: %d\nSetup file for GameGuard does not exist or is corrupted. Download Setup file for GameGuard and install at Game folder.
+30015	GameGuard Error: %d\nSetup file for GameGuard does not exist or is corrupted. Download Setup file for GameGuard and install at Game folder.
+30016	GameGuard Error: %d\nSetup file for GameGuard does not exist or is corrupted. Download Setup file for GameGuard and install at Game folder.
+30017	GameGuard Error: %d\nSetup file for GameGuard does not exist or is corrupted. Download Setup file for GameGuard and install at Game folder.
+30018	GameGuard Error: %d\nFailed to download. Network might not currently be stable, internet settings might have some problems, or check the firewall.
+
+50001	Event started. Join in the Event NOW!
+50002	Event started. Join in the Event NOW!
+
+50011	Team A won one Wish Point.
+50012	Team B won one Wish Point.
+
+50021	Rank
+50022	UpDn
+50023	Guild
+50024	Score
+50025	Win
+50026	Lose
+50027	ID
+
+60000	%s
+60001	Gold Price %7dGold
+60002	Can't buy
+60003	Cash Price %7dCash
+60004	Can't buy
+60005	(Resell rate=%dGold)
+60006	This is a male item.
+60007	This is a female item.
+60008	Please check the item gender.
+60009	http://www.softnyx.net/02_Cash/03_Charge_00Base.asp
+60010	Purchase successful.
+60011	You have bought '%s'.
+60012	Your item(s) has been sent to your avatar closet
+60013	Thank you for visiting the avatar shop. 
+60014	Bought items cannot be gifted.
+
+100000	Hello. This is GunBound GM.
+100001	Congratulation on finding event room ^^
+100002	One/two correct answer for prize(s).
+100003	Two wrong answers and you are out of event.
+100004	Good luck with the Halloween quiz~ ^^
+100005	Here is the question.
+
+110000	Hope you had a good time ^^
+110001	We will return with more enjoyable event in the future.
+110002	Thank you for your participation.
+
+120000	Correct! Your knowledge on Gunbound is fairly good. ^^
+
+130000	Sorry wrong answer.
+
+140000	15
+140001	Login ID is fixed but Game ID can be changed.
+140002	TRUE
+140003	Only popularity is applied on avatar off servers.
+140004	TRUE
+140005	You can play Gunbound without 3D graphic card.
+140006	FALSE
+140007	Guild name is unchangeable once made.
+140008	FALSE
+140009	The maximum total stat of avatars is 50.
+140010	TRUE
+140011	There are 4 types of mobiles in Gunbound.
+140012	FALSE
+140013	The knight or the dragon are randomly chosen mobiles.
+140014	TRUE
+140015	The 2nd shot of ICE increases the defense of hit mobile.
+140016	FALSE
+140017	The SS shot of Mage removes the shield from Shield type mobile.
+140018	TRUE
+140019	The delay item increase user's delay when used.
+140020	Frue
+140021	Your play turn comes back faster when delay is high.
+140022	FALSE
+140023	Team Teleport swaps your place with same team member.
+140024	TRUE
+140025	High shield recovery stat means faster shield regeneration.
+140026	TRUE
+140027	High pit angle stat decreases the pit made during an explosion. 
+140028	FALSE
+140029	High item skip delay decrease the delay made by using that item.
+140030	TRUE
+150000	15
+150001	The maximum number of guild member is 100.
+150002	TRUE
+150003	The return price of avatar item is 60% of original price.
+150004	TRUE
+150005	The game room master can kick other users from game room.
+150006	TRUE
+150007	The game room master can change the game room options.
+150008	TRUE
+150009	The weather during the game can be the combination of moons.
+150010	FALSE
+150011	Protector moon disk increases the energy of each mobile by 3 %.
+150012	TRUE
+150013	Based on player using, SS can be used every 7 turn.
+150014	FALSE
+150015	Screenshot during the game is taken using F11.
+150016	TRUE
+150017	Right click on other user's mobile to see their win/lose record.
+150018	FALSE
+150019	Shot of God requires killing 2 opponents or bungee them in a turn. 
+150020	TRUE
+150021	The rank is update once a day. 
+150022	TRUE
+150023	Double metal axe and above rank are dependant on accumulated GP on others. 
+150024	TRUE
+150025	Guild mastership can be passed onto other member of same guild. 
+150026	TRUE
+150027	Avatar item(s) buy/sell/gift history can be checked from website.
+150028	TRUE
+150029	Aavatar item(s) received as gift can be gifted again to others.
+150030	FALSE
+
+
+;서버 리스트 관련 내용 입니다	
+170000	in Maintenance
+170001	Low
+170002	Medium
+170003	High
+170004	Full 
+; GameList 관련 내용 입니다.	
+180000	Full 
+180001	Waiting
+180002	In game
+180003	Team who destroys all of the opponents mobile wins.
+180004	Select two mobile for an exciting tag game.
+180005	Team who destroys the number of mobiles on the score board wins.
+180006	Destroy the Jewels to receive points. Team who receives 100 points first wins.
+180007	Get the power ball to destroy the opponents with special power.
+
+188007	Title
+188008	Password 
+188009	Chat 
+188010	channel 
+188011	Number
+188012	Password 
+188013	Locked game room 
+188014	Insert password 
+188015	GP
+188016	CRank
+188017	TRank
+;패스워드방 둘중 하나 씁시다용.	
+
+;버디 관련 내용 입니다	
+190000	Offline 
+190001	Avatar shop 
+190002	Server 
+190003	Game 
+190004	Channel
+190005	Online 
+190006	World list 
+190008	Delete selected user from buddy list? 
+190009	%d people left 
+190010	Add selected user to buddy list? 
+190011	Gathering players for a game.\nPlease wait.
+190012	Gathering players for a Grand Prix.\nPlease wait.
+190013	%s invetes you.
+190014	%s dosen't want to join your invitation.
+
+;대기실관련 내용 입니다.	
+200000	Armor 
+200001	Mage 
+200002	Nak 
+200003	Trico 
+200004	BigFoot 
+200005	Boomer 
+200006	Raon Launcher
+200007	Lightening 
+200008	JD 
+200009	A.Sate
+200010	Ice
+200011	Turtle 
+200012	Grub
+200013	Aduka 
+200014	Kalsiddon
+200015	J.Frog 
+200016	Amp 
+200017	Random 
+200019	Phoenix
+
+210000	Explosive 
+210001	Mechanical 
+210002	Laser 
+210003	Shield
+210004	Physical 
+210005	Bionic 
+210006	Electrical 
+
+211001	Game Mode
+211002	User 
+211003	Map
+211004	Slot Mode 
+211005	Sudden Death Turn
+211006	Sudden Death Mode
+211007	A Side
+211008	B Side
+211009	C Side
+211010	D Side
+212000	Only the users who holds poweruser card or play in poweruser room are available to use phoenix mobile
+	
+;옵션 모드 관련 입니당	
+220001	Select default mobile.
+220002	Select default item(s).
+220003	Select default mobile. Selected mobile will be automatically selected and be in ready status when entering game room. Mobiles can be changed in game room.
+221001	Armor uses double explosive shots and has a good defense.
+221002	Mobile suitable for beginners and can use the terrain effectively.
+221003	Uses shots that digs into ground. Good for attacking mobiles hiding behind the terrain.
+221004	Uses rotating three-missile shots. If three shots land on one spot it can cause tremendous damage.
+221005	Fires multiple shots and can target a wide area.
+221006	Mobile with a boomerang missile which is strongly affected by the wind. Inflicts high damage when hit.
+221007	Fires mines which moves towards the target. Can plant mines where mobiles are predicted to move.
+221008	Thunder strikes on the target. Can attack mobiles on higher platforms from below.
+221009	Fires missiles that pulls the opponent mobile towards the missile. Can drag opponent mobiles into one spot.
+221010	Attack with a small satellite hovering above mobile. Has high damage rates.
+221011	Reduce opponent’s defense with each shot. Ideal when teamed up with physical damage mobiles.
+221012	Shots can be pin pointed onto one target when shot in a high angle and has high defense.
+221013	Shot will bounce off the ground. Good for attacking mobiles trapped inside the terrain.
+221014	Uses Thor, up in the sky, to attack mobiles. Damage differs depends on level of Thor.
+221015	High angel mobile which fires homing missiles. Ultra high angel mobile for experienced users.
+221016	Mobile which shoots sticky missiles that rolls along the ground. Good for attacking mobiles in confined area.
+221017	Mobile which transforms itself when energy goes below a certain level.
+221018	Mobile will be selected randomly. Try your luck in getting the hidden mobiles! 
+221020	Phoenix has specialized for high angle, this is designated to be used for gunbound experts and it can help them to give high damage
+221100	Set default item. Items settings can be adjusted in the game room.
+	
+230001	Insert reporting ID, describe in short. If report is found to be true reported ID will be punished accordingly. 
+230002	Reporting ID
+230003	Detail(profanity, bad manner)
+
+;친구 관련 뮤트 관련 내용입니다.	
+300000	Add Buddy 
+300001	Delete Buddy
+300002	Add buddy?
+300003	Add to Mute list 
+300004	Mute this user?
+300005	Delete user from Mute List?
+
+;게임내에 들어가는 내용들입니다.	
+399986	Damage Record
+399987	Maximum
+399988	Total
+399989	Select drop point
+399990	Drag shot mode
+399991	Left click to select drop point.
+399992	Move mouse to adjust shot gauge with left click and release left click to fire.
+399993	You can change the current game room title.
+399994	Move 
+399995	Complete 
+399996	Master 
+399997	Ready 
+399998	Turn List
+399999	New title
+400000	Slice
+400001	Drag 
+400002	Select drop point.\nLeft Click to drop.
+400003	Drag shot mode\nclick on the left mouse button and drag it to the position you want to target, then let go of the left mouse button to shoot.
+400004	24
+400005	Gunbound TIP!
+400006	You can change the camera view by clicking on the right mouse button and dragging along.
+400007	to center your mobile, place your cursor on top of your mobile and click on the right mouse button twice.
+400008	Left Click on a mobile to view game information.
+400009	Screenshot will be saved in Gunbound folder when you press F12.
+400010	F1~F6 is the short key for items.
+400011	You can select the item you wish to use by clicking on it, even when if it is not your turn. 
+400012	Press Tab to change weapon.
+400013	Press F9 to change chatting mode.
+400014	Press F7 to change your tag mobile. 
+400015	You can reduce delay if you skip your turn.
+400016	The faster you shoot, faster your next turn will be.
+400017	You can predict your next turn by viewing the turn list
+400018	Normal attack has shorter delay than boomer shot and boomer shot has shorter delay than SS.
+400019	Number below the item is the delay time. Smaller the number, shorter the delay.
+400020	Delay can be reduced if you wear delay reducing avatar items.
+400021	you can predict weather changes with Moon discs.
+400022	You will receive Double kill bonus if you kill more than two player in one turn.
+400023	You will receive excellent shot bonus if you gain more than 500 damage in a turn.
+400024	You will receive 3,000 damage bonus if you gain more than 3,000 damage in a game.
+400025	Each avatar item(s) can affect mobiles unique stat.
+400026	Jewel will be destroyed if it receives certain amount of damage in one turn.
+400027	In score mode, you can select a drop point to start with a fresh mobile when you die.
+400028	For users below Double sided axe user , ranking is determined by the amount of GP.
+400029	Each rank will be calculated based on total user GP ranking.
+400030	Red Team
+400031	Blue Team
+400032	(Attack)
+400033	(Defence)
+
+400099	Start
+410001	Setting
+410002	Shooting Mode
+410003	Drag
+410004	slice
+410005	Mouse scroll speed
+410006	Sound setting 
+410007	Midi 
+410008	MP3
+410009	Music
+410010	Effect
+410011	3D
+410012	High
+410013	Average
+410014	Low 
+410015	Background 
+410016	On 
+410017	Off 
+410018	Team 
+410019	All 
+410020	Quit Game
+410021	OK 
+410022	Score 
+410023	jewel point
+410024	Interface
+410025	New
+410026	Old
+410027	Configuration
+410028	normal
+
+;슬롯머신에 들어가는 내용입니다.	
+420001	Slot rolling
+420002	Item won. Do you want to use this item? 
+420003	Click on where your want to drop the selected item. 
+420004	Use after 4 turns.
+
+;상점에 들어가는 내용 입니다.	
+500000	My avatar
+500001	Buy 
+500002	Gold 
+500003	Cash 
+500004	Can't buy
+500005	Can't buy
+500006	Send to :
+500007	Message :
+500008	Gold only
+500009	Cash only 
+500010	Normal 일반
+500011	Add
+500012	Gift from:
+500013	Message:
+500014	Select period
+500015	%s : %dYear 
+500016	%s : %dMonth 
+500017	%s : %dWeek 
+500018	%s : %dDay 
+500019	%s : %dHour %dMinute
+500020	Item period  : 3 days
+500021	Item period  : 1 week
+500022	Item period  : 2 weeks
+500023	Item period  : 1 month
+500024	Item period  : 2 months
+500025	Item period  : 3 months
+500026	Item period  : 1 year
+500027	User has accepted your gift
+500028	User has rejected your gift
+500029	Wrong gender.\nPlease check the item gender.                      
+500030	You already have this item
+500031	The item gender and \nthe receiver's gender does not match. 
+500032	Cannot find the ID
+500033	Item has been sent
+500034	Item has been bought
+500040	3 days
+500041	1 week
+500042	2 weeks
+500043	1 month
+500044	2 months
+500045	3 months
+500046	1 year
+500047	Limitless
+500048	You already have this avatar. Please select other avatar.
+500049	30 EA
+500050	50 EA
+500051	100 EA
+500052	EA
+500053	2 Hours
+500054	1 Day
+500055	Only for Chicken Level
+
+;다이얼로그의 제목들입니다.	
+555555	Error
+600000	Buddy message alert
+600001	Waiting for Quick Start 
+600002	Mute List Notice
+600003	Waiting for Grand Prix
+
+700098	Change Game room name
+700101	Chatting 
+700100	Buddy List 
+700034	Create a game room
+700305	Exit a game room
+700036	Channel list 
+700045	Gift 
+700035	Go to 
+700044	Buy avatar item(s) 
+700096	Change game option
+700047	Gift received alert 
+700048	Gift accepted alert 
+700095	Select item
+700094	Select mobile
+710000	Mute List
+
+;이 밑에는 게임외 에러코드를 추가로 입력 하는 부분 입니다	
+800000	Quick Start Failed\n Could not join a Quick start game.\nPlease try again later.
+800001	Game Start Failed\nFailed to start the game.\nPlease try again later.
+800002	Option Change Failed\nCould not change the option.\nPlease try again later.
+800003	You have been kicked\nBecause you did not start for 40 seconds.
+800004	You have been kicked\nBecause you did not ready for 40 seconds.
+800005	Are you sure EXIT from Gunbound?
+800006	Checking...
+800007	Cannot find the room. Please join the other room.
+800008	Please select correct gender.
+
+888888	Mute List
+999999	Game Abuse\n Users who suicide or self destruct continuously can be punished as an abuser.
+
+1000000	ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+;item name	
+1001000	Dual
+1001001	Teleport
+1001002	Dual+
+1001003	
+1001004	Blood
+1001005	Energy up 1
+1001006	Energy up 2
+1001007	Team Teleport
+1001008	Change Wind
+1001009	Power up
+1001010	Thunder
+1001011	Bunge shot
+
+;item Description	
+1002000	This item can be used dual firing of any weapon. The delay is longer than normal but it gives double damage to enemy.
+1002001	Can teleport to the point where object of teleport item is fell.
+1002002	Same as Dual item but can fire different two weapons and delay shorter than Dual.
+1002003	
+1002004	Use 8% of user's energy can give 33% additional damage to enemy.
+1002005	Add little energy and life forms have 5% bonus healing effect.
+1002006	Add 25% of maximum energy and life forms have 5% bonus healing effect.
+1002007	Change position with team member who has the least power. It makes to loose turn but delay is very short.
+1002008	Make wind's direction to backward. It has heavy delay so need to quick judge and shooting.
+1002009	This item adding 33% cannonball power and it has shorter delay than Dual.
+1002010	It makes to occur lighting the area where cannonball is fell. It is very powerful when the electrical attack is efficient.
+1002011	Give 25% more damages to bury enemy. It is very powerful on time uses but need to control delay wisely.
+
+;map name	
+1003000	Cave(Random)
+1003001	MiramoTown
+1003002	Nirvana
+1003003	Metropolis
+1003004	SeaOfHero
+1003005	AdiumRoot
+1003006	Dragon
+1003007	CozyTower
+1003008	DummySlope
+1003009	StarDust
+1003010	MetaMine
+1003011	LoveYou
+1003012	Lond
+
+;nhn error code	
+2000000	
+2000001	
+2000002	
+2000003	
+2000004	
+2000005	
+2000006	
+2000007	
+2000008	
+2000009	
+2000010	
+2000012	
+2000013	
+2000014	
+2000015	
+2000016	
+	
+2000500	Lesson
+2000501	Ready to start the lesson?
+2000502	You already finished this lesson. Do you want to try it again? (No additional rewards will be given.)
+2000503	Please finish the previous lesson first.
+2000504	The lessons are activated.
+2000505	Do you want to finish the lesson and go back to the previous page?
+2000506	Congratulations!
+2000507	Rewards :
+2000508	Do you want to end the tutorial and go back to the previous page?
+2000509	Mission
+2000510	Turn(s) left :
+2000511	You tried that shot already!  Try a different type of shot.
+2000550	LESSON 01 _ Basic Controls
+2000551	This is the basic guide to the controls in Gunbound.
+2000552	Defense Up * 30 , 100G
+2000553	LESSON 02 _ Types of weapons and angles
+2000554	This lesson is about the different types of shots and their damage potential.
+2000555	Damage Up * 30 , 150G
+2000556	LESSON 03 _ The wind and the forces
+2000557	Let's learn about the wind and forces that effect direction and effect of shots.
+2000558	Team Offense Up * 30 , 250G
+2000559	LESSON 04 _ Rewards and Winning Conditions
+2000560	Ever wonder how you earn gold or gp? How do you win or lose?
+2000561	Treasure Box * 30 , 350G
+2000562	LESSON 05 _ Game Mode
+2000563	Time to learn about the features of each game mode and how to control in each mode.
+2000564	Special Force * 30 , 500G
+2000565	LESSON 06 _ Mobile selection and their abilities
+2000566	Some basic information about mobiles and their capabilities.
+2000567	Item Lock * 30 , 600G
+2000568	LESSON 07 _ Features of each mobile
+2000569	Let's check out the features of each mobile.
+2000570	Hat Avatars * 1 , 800G
+2000571	LESSON 08 _ Abilities and wearing of avatars
+2000572	Let's check out what abilities avatars have and how to wear them.
+2000573	Wardrobe Avatars * 1 , 1000G
+2000574	LESSON 09 _ Simulation
+2000575	Use all your knowledge to knock down the opponent mobile!! 
+2000576	Flag Avatars * 1 , 1500G
+2000601	You completed the lesson.
+2000602	Angle Control
+2000603	Power Control
+2000604	Move
+2000605	Pass Turn
+2000606	Use Item
+2000607	The higher your delay, the later your next turn will be.
+2000608	Change Shot
+2000609	True Angle : The full potential power of your shot is unleashed.
+2000610	Untrue Angle : The power of your shot will be decreased.
+2000611	Wind force : The path of your shot is effected the wind.
+2000612	Pillar style force
+2000613	Climate style force
+2000614	Extra force
+2000615	Good performance and diffictul shots will earn you gold/gp.  Bad performace will make you lose gold/gp.
+2000616	Kill : Damage your opponent's mobile until it reaches zero.
+2000617	Bunge : Destroy the ground where your opponent's mobile is standing to knock them off the map.
+2000618	You can left click to land back into battle when you have points left in score mode.
+2000619	Earn power ups whenever you collect power balls.
+2000620	Offense
+2000621	Defense
+2000622	Delay
+2000623	Mobility
+2000624	Offense Attribute
+2000625	Defense Attribute
+2000626	Avatar On
+2000627	Avatar Off
+2000628	To wear an avatar : Double click the avatar that you own.
+; Lesson 1 (Lesson 1개당 최대 200개 문자열)	
+2001000	Welcome to the mysterious planet "Lond" where eight moons rise.
+2001001	Hi, Nice to meet you! My name is Rena!
+2001002	My goal is to train Gunbound newbies so that they can hang with all the pros.
+2001003	In Gunbound, you will be participating in battles on your own personal mobile.
+2001004	It's a dangerous but fun game. All you need to do is shoot your enemies and knock them off the map!
+2001005	I'll be teaching you tons of stuff while we travel around the eight moons!
+2001006	At the end of each lesson, I'll give you a big reward so don't give up!
+2001007	Now, let's get started!
+2001008	Let's talk about angles first. The angle tells you how high you are going to shoot!
+2001009	You will see a number in the box at the bottom. That's your current angle.
+2001010	The number changes as your angle changes.
+2001011	This arrow tells you where your shots will go. This gives you a rough idea of the direction and height.
+2001012	You can control the angle with your keyboard. Press ↑ arrow key to raise and ↓ arrow key to lower your angle.
+2001013	Let's try changing the angle? Practicing setting your angle.
+2001014	Let's set the angle to 50, then 15 and finally 30.
+2001015	Your angle is too high! Press the ↓ arrow key and lower it a bit.
+2001016	Your angle is too low! Press the ↑ arrow key and raise it a bit.
+2001017	Good job! Don't forget, use the ↑ and ↓ arrow keys to change your angle.
+2001018	Now that you know about angle, let's learn power. You will see a long bar at the bottom of the screen.
+2001019	This bar indicates the power of your shots. Press, hold and release the space bar to control your power.
+2001020	The power bar fills up as you hold down the space bar.
+2001021	You see the power bar getting filled up in red? Your shots get stronger as the power bar fills up.
+2001022	The power of your shots depend on how much the power bar is filled.
+2001023	The power bar marker helps you control your power better.
+2001024	If you click anywhere on the power bar the power bar marker moves there.
+2001025	Now have a go at it yourself. Fill up the power to where the power bar maker is.
+2001026	Fire your shot, filling up the power to where the power bar marker is.
+2001027	Too much power! Release the space bar a little sooner.
+2001028	Too little power! Hold down the space bar a little longer.
+2001029	Well done! Remember, you need to control your power to have your shots land where you want them to!
+2001030	Now let's see how you move your mobile. Your mobile has the ability to move around also.
+2001031	You can move from your spot to avoid getting hit or to find better shooting angles.
+2001032	The better you position yourself, the better your chances of winning. Press the ← or → arrows to move your mobile.
+2001033	When you move, you will see the blue gauge on the bottom go down.
+2001034	Once the gauge runs out, you can't move anymore, so be careful.
+2001035	Now let's give it a try! Move your mobile to the designated point.
+2001036	Your movement range for each turn is limited so be careful.
+2001037	Press F8 or click the skip button on the bottom of your screen to skip the rest of your turn.
+2001038	Move to where the yellow marker is.
+2001039	Just a little more to go! Cheer up!
+2001040	Not that way! The other way!
+2001041	You can no longer move! Press F8 to end this turn.
+2001042	Good job! What do you think of that? Each mobile has a different movement range so keep that in mind!
+2001043	Now let's talk about special items.
+2001044	See that space? Those are the item slots. You can load up items in the game room before the game starts.
+2001045	Your item inventory has six slots. Each item has different effects and requires a different number of slots.
+2001046	To use an item, you can either left click the item or press a hot key.
+2001047	Hot keys are from F1 to F6. You can use items quickly by pressing the hot keys.
+2001048	There are two types of items:  general items and expendable items.
+2001049	General items need to be loaded in the game room before the game starts. There are usually no restrictions.
+2001050	Expendable items need be purchased by G Coin or Gold in the avatar shop. You can also load them in the game room.
+2001051	Expendable items have special powers unlike other general items.
+2001052	You can choose which type of item by pressing the tab above the items.
+2001053	Let's try using an item. Use an item, then shoot.
+2001054	Click on an item or press the corresponding hot key to use that item.
+2001055	You need to use the item first!
+2001056	You used the dual item that lets you fire two shots in one turn. Remember, each item has different effects! 
+2001057	Finally, that last thing for this lesson. Delay!
+2001058	Delay is a consequence of your turn.
+2001059	Your delay increases as you use special shots or items. Your delay determines your next turn.
+2001060	The higher your delay, the later your next turn will be.
+2001061	This is how you can control the game. Check the delay for all players on the bottom of your screen.
+2001062	You can see your delay and when your next turn will be!
+2001063	Now get ready for a pop quiz on delay!
+2001064	Get the answer right!
+2001065	Which user will get to go first?
+2001066	1. User A : Delay 700
+2001067	2. User B : Delay 1300
+2001068	3. User C : Delay 1000
+2001069	4. User D : Delay 1500
+2001070	Correct! Whoever has the lowest delay gets to go first!
+2001071	I'm sorry, that's incorrect. Check the tip and answer again.
+2001072	Wrong answer! Try again.
+2001073	Incorrect! Check the tip and try again.
+2001074	You've learned a lot! Get your rewards! Take the next lesson and get more rewards!
+; Lesson 2	
+2001200	Let's talk about what types of shots the mobiles can use and what true angle is.
+2001201	Each mobile has three different kinds of shots.  The type of shot your are using is shown in the bottom left.
+2001202	Shot 1, Shot 2 and SS all have different features.
+2001203	Shot 1 is a regular shot.  Using shot 2 fires a special shot.
+2001204	SS is the ultimate shot. It's really strong and special, but it also has a high delay.
+2001205	Unlike other shots, the SS shot takes four turns to unlock before it can be used.
+2001206	Now try firing your SS shot! Click the SS tab or press tab key twice.
+2001207	Fire the SS shot!
+2001208	Wait a few more turns. Press F8 to skip your turn!
+2001209	Four turns have passed. You can use your SS shot now! Hurry!
+2001210	Now you've seen the power of SS! SS is really strong but it also has high delay! Be careful when using it!
+2001211	There are two types of angles you can use: true angle and untrue angle.
+2001212	True angle gives you full damage while untrue angle gives you a little less, but extended angle range.
+2001213	How do you tell the difference? The dark green area represents the true angle and the light green area represents the untrue angle.
+2001214	Ok, time for another pop quiz!
+2001215	Get the answer right!
+2001216	What is the term for the type angle that gives your shot full power?
+2001217	1. True Angle
+2001218	2. Light Angle
+2001219	3. Alternate Angle
+2001220	4. Vertical Angle
+2001221	Correct! Try to use the true angle to give your enemies maximum damage!
+2001222	Nice try, but that is wrong.  Please try again.
+2001223	Wrong answer! Check the tip and answer again.
+2001224	That is incorrect! Please try again.
+; Lesson 3	
+2001400	Now let's see how the wind and forces affect your shots.
+2001401	The wind is a main factor that determines the direction of your shots.
+2001402	The wind indicator tells you where the wind is coming from and how strong it is.
+2001403	The arrow tells you the direction of the wind and the number tells you how strong the wind is.
+2001404	Let's take a look at how the wind affects the shots. On your screen there is a dotted line.
+2001405	This dotted line is a radar item that helps you predict the path of your shot.
+2001406	Try to hit those objects far away by using the radar. Don't forget, the path of your shot depends on the wind.
+2001407	Shoot the other mobile!
+2001408	Er... you missed it. Nice try though.This time, think about your angle and power.  Try again!
+2001409	You hit it! Do you understand how the wind affects your shots? The wind can change often, so keep and eye on it.
+2001410	Now let's learn about forces. The planet Lond has eight moons and each of them has different effects.
+2001411	As moons rotate, abnormal climates occur and influence your shots.  These abnormal climates are called "force".
+2001412	There are three kinds of forces. The first type is the pillar force. Every shot that passes through a pillar gets a special effect.
+2001413	The climate forces influence nature.  They do things such as changing the wind or weakening the ground.
+2001414	Lastly, there are these "Extra Force" which cause extremely abnormal phenomenon.
+2001415	The different type of pillar forces are tornado, force, electricity, mirror and black force.
+2001416	If a shot passes through a pillar, the shot becomes special. Try shooting something through the electric pillar.
+2001417	Did you see that? The electricity directly affects your shot. Keep this in mind before you shoot.
+2001418	Let's look at the climate forces.  The wind force alters the wind while the earth force increases land destruction.
+2001419	Lastly, let's talk about the "Extra forces". These are ancient forces and are quite special.
+2001420	Extra Forces include protection, ignorance and Thor. Protection increases recovery. Ignorance disables the use of items.
+2001421	When the Thor force is active, Thor's Hammer will fire lasers. Let's see how Thor hammer works.
+2001422	Does that make sense? Do you get the idea? Time for another pop quiz!
+2001423	Get the answer right!
+2001424	Which one of the followings is not a type of force?
+2001425	1. Pillar Force
+2001426	2. Climate Force
+2001427	3. Extra Force
+2001428	4. Special Force
+2001429	That's incorrect. Shots that pass through the pillar force gets special effects, remember the electricity force?
+2001430	Sorry, wrong answer. Climate forces change the wind or weaken the ground.
+2001431	Um… no! Didn't you see what Thor's Hammer just did?
+2001432	Right on! Special force is the name of an expendable item, not a type of force. Good job!
+2001433	If you understand how forces work, you can use them for your advantage!
+; Lesson 4	
+2001600	Now let's talk about how to earn gold and gp. We'll also talk about how to win battles.
+2001601	Depending on your performance, you will earn gold and gp.
+2001602	For example, when you damage an opponent you earn gold and gp. Check this out!
+2001603	If you do more than 250 damage to an opponent, it is a "good shot".  The amount of gold and gp you earn is shown on the top.
+2001604	Damage your oppoenents in difficult situations to earn more gold and gp.
+2001605	However, if you damage your team or yourself you lose gold and gp!
+2001606	Get the answer right!
+2001607	Which one of the following situations does not give you gold or gp?
+2001608	1. Good shots.
+2001609	2. Doing 1000 damage. 
+2001610	3. Hitting an enemy through a tornado.
+2001611	4. Suicide.
+2001612	Are you paying attention!? A good shot means you damaged an opponent for 250 or above.  Didn't I just show you that?
+2001613	Sorry, that's wrong. If you do that much damage you will definitely earn gold and gp.
+2001614	Incorrect. Hitting an enemy through a tornado is a difficult shot and earns gold/gp.
+2001615	That's right! Suicide hurts your team and yourself so you lose gold and gp.  Suicide is bad!
+2001616	Now you know how to earn gp and gold.  Let's see how you win or lose the game.
+2001617	It's actually pretty simple. Just beat your opponents before you get beaten!
+2001618	There are two ways of doing this. One way is to damage your enemy until their energy reaches zero. This is called a "kill".
+2001619	The other way is get rid of the ground where your enemy is standing. This is called a "bunge".
+2001620	That's basically how you win... or lose if it your opponent does it to you.
+2001621	Oh! I almost forgt! Winning and losing also depends on the game mode! We'll talk about this later.
+2001622	Now, get ready for the thrill of victory! Hurry!  Make a "kill" or "bunge".
+2001623	Disable your opponents!
+2001624	Damage them until their energy reaches zero!
+2001625	Destroy the ground underneath your opponent!
+2001626	Awesome! You win! Now you know how to win and lose. 
+; Lesson 5	
+2001800	This lesson is about the different game modes.
+2001801	There are five game modes:  Solo, Score, Tag, Jewel and Powerball. They are all similar, but slightly different.
+2001802	In solo mode you battle until every opponent is damaged until zero.
+2001803	Score mode is similar to solo mode except when you become disabled you can come back.
+2001804	To win in score mode you need to bring your opponents' score to zero. The score is displayed on the bottom.
+2001805	Everytime someone dies, that teams' score goes down by one. Disabled mobiles are removed from the map.
+2001806	Dead players can click on a spot where they want to land. After several turns, players will land with full energy.
+2001807	This means you can come back to the battle even if you die in score mode.
+2001808	Be careful though! If all your team mates die at the same time, even if your score is not zero, your team loses.
+2001809	So once you die, be quick and choose where you want to land back in the battle!
+2001810	Here's a quick test! You have died in score mode, what do you do?  Hurry, get back in the game!
+2001811	Disabled mobiles can come back into battle!
+2001812	Click where you want to land back into battle.
+2001813	Landing successful! It takes four turns to get back into battle during the real score mode!
+2001814	You can always come back into battle as long as your team has points left.
+2001815	Now let's look at tag mode. It is very similar to solo mode, but there are some differences.
+2001816	In tag mode, you can switch between mobiles. You pick two mobiles at the beginning, before the game starts.
+2001817	The first mobile you pick will have full energy while the second mobile will have half.
+2001818	You will see the other mobile and the tag button on the bottom right.
+2001819	You can switch between mobiles by clicking the tag button or pressing F7.
+2001820	In the jewel mode the goal is to break jewels until you get 100 points.
+2001821	You need to break jewels in order to get the points they carry.
+2001822	There's no point in attacking other mobiles in this mode so focus on breaking jewels!
+2001823	Finally, Powerball mode is similar to score mode.  However, instead of forces there are different "powerballs" in the game.
+2001824	Powerballs fall from the sky, bounce around and the stop. If you can touch one of these, you will get a power up.
+2001825	The type of power up is marked underneath your mobile.
+2001826	You can have up to four different powerups at once. Isn't that amazing? So make sure to keep and eye on your power ups!
+2001827	Also, the power ups will disappear after a few turns. It's too bad eh?
+2001828	Time for another pop quiz!
+2001829	How many powerups can you have at one time?
+2001830	1. 1
+2001831	2. 2
+2001832	3. 3
+2001833	4. 4
+2001834	No… that would make power ball mode kind of boring.
+2001835	Sorry, that's incorrect.
+2001836	Nice try, but that is wrong.  Please try again.
+2001837	Correct! You can have up to four power ups at once.
+2001838	Now that you understand all the game modes, why don't you try them out?  Have some fun and play a few games!
+; Lesson 6	
+2002000	Now let's take a look at the mobiles.
+2002001	First, you need to understand how to pick a mobile.
+2002002	In the middle of the waiting room, there is a mobile button.  Click that button.
+2002003	When you click the button, you will be able to choose a mobile.  
+2002004	This is how you pick your mobile!
+2002005	Don't forget, you can choose two different mobiles when you play tag mode.
+2002006	This screen also gives you the offense, defense, and other stats for the mobiles.
+2002007	Let's take a look at the different stats.
+2002008	Below you will see a sword, shield, hourglass, and a tire.  Each stat is important, so let's look at each one!
+2002009	The sword represents offense.  The higher, the stronger your attacks.
+2002010	The shield represents defense.  The higher the gauge, the less damage you receive when you get hit.
+2002011	The hourglass represents delay.  The higher the gauge, the higher your delay.
+2002012	Remember, a high delay means you move later.  This isn't a good thing.
+2002013	Finally, the tire represents how far a mobile can move. The higher the gauge, the further you can move.
+2002014	Does that make sense?  I hope so, because it's time for another pop quiz.
+2002015	Get the answer right!
+2002016	Which one of the following symbols represents the stat for how far a mobile can move?
+2002017	1. Sword
+2002018	2. Shield
+2002019	3. Hourglass
+2002020	4. Tire
+2002021	Nope! Where you paying attention? The sword represents offense.
+2002022	Sorry, that's wrong.  The shield represents defense.
+2002023	I'm sorry, that is incorrect. The hourglass represents delay.
+2002024	Right on! The answer is tire. You pass the pop quiz!  That's it for this lesson.  Don't forget about your prize!
+; Lesson 7	
+2002200	Finally, some excitement.  Let's look at the different mobiles.  Pay attention!  This is going to be important.
+2002201	Mobiles have offense and defense stats, but they also have different attributes.  Damage caused and received depends on them.
+2002202	Weapon systems refer to the attributes of a mobile's shot. There are fire(explostion), laser, electrics and hit(strike) attributes.
+2002203	Armor systems refer to the attributes of a mobile's defense. The different armor systems include steel(machine), shield and bio.
+2002204	For weapon systems and armor systems, each type has its own advantages and disadvantages.
+2002205	When there is a disadvantage, your shot does 4% less damage.  If there is an advantage, you get 4% extra damage.
+2002206	Steel armor is strong against hit attacks, but weak against electric. Shield armor is powerful against laser but weak against strike.
+2002207	Lastly, bionics have an advantage against electric attacks, but a disadvantage against laser attacks.
+2002208	Fire(explosion) is an attribute that does not have any advantages of disadvantages.
+2002209	I know, it's confusing. Once you understand the attributes, you reduce the damage you take and increase the damage you give.
+2002210	Get the answer right!
+2002211	It's that time again, time for a pop quiz! Which one of the followings attacks is weak against bionics?
+2002212	1. Fire(explosion)
+2002213	2. Laser
+2002214	3. Electronic
+2002215	4. Hit(strike)
+2002216	No, that's wrong!  Explosion attacks do fixed damage, regardless of the armor system.
+2002217	No! Laser attacks are week against steel(machine) amor systems.
+2002218	That's right! Electric attacks are weak against bio armor systems.
+2002219	Incorrect. Hit(strike) attacks are weak against steel(machine) amor systems.
+2002220	Finally, let's look at the features of specific mobiles.
+2002221	Mobiles with steel(machine) defense attributes are strong in defense.  Unforunately, they have little mobility and high delay.
+2002222	Mobiles with shields get to recharge their shields to take more damage.  However, the max energy is low.
+2002223	Bio mobiles make full use of recovery items, but they are the weakest in terms of defense.
+2002224	So each mobile is different, keep that in mind!
+2002225	Let's take a spin with each mobile!  We'll try all of them, so don't worry.
+2002226	Pay attention to how the shots travel.
+2002227	First is Armor.  Armor has high defense and shots that will destroy a wide portion of the ground.
+2002228	Unfortunately, Armor has a high delay and little mobility. Let's try a few shots.
+2002229	Let's practice shooting.  Try shot 1, shot 2 and SS shot!  Try each one once.
+2002230	Nice job! Armor's shot 1 destroys a wide portion of the ground.
+2002231	Well done! Did you see that? Armor's shot 2 digs into the ground and explodes twice.
+2002232	Great! Armor's SS shot does a lot of damage if it hits!
+2002233	That was Armor. Now let's take a look at Big Foot!
+2002234	Big Foot fires a shower of shots so it has wide hitting range.
+2002235	The shots scatter the further your attacks go.  This means it is not as effective against opponents far away.
+2002236	Let's try a few shots with Big Foot.
+2002237	Fire shot 1, shot 2 and SS shot!
+2002238	Nice! Big Foot shot 1 fires four mid-sized missiles. Each shot is quite powerful too.
+2002239	Good! Big Foot shot 2 fires six small missiles. Each shot is weak, but combined they can be very effective.
+2002240	Big Foot's SS shot fires nine huge missiles. There is potential to do huge damage with the SS shot.
+2002241	Now it's time for some Trico. Trico boasts some ground breaking power and strong explosions.
+2002242	Some of the shots spin in the air, so it makes a direct hit very hard to do.
+2002243	Give it a go for yourself!
+2002244	Fire shot 1, shot 2 and SS shot!
+2002245	Did you see? Shot 1 fires a single explosive shot. It's a pretty strong shot.
+2002246	Shot 2 fires three explosive shots. The shots spin in the air so you got to get it just right for maximum damage.
+2002247	Trico's SS shot has a wide attack range. It is very effective against enemies gathered close together.
+2002248	Aduka has both electric and laser weapon systems. It can call upon Thor's power and become very powerful later on in the game.
+2002249	However, it takes time for that power to kick in so it is weaker than other mobiles in the beginning.
+2002250	Let's try a few rounds with Aduka.
+2002251	Fire shot 1, shot 2 and SS shot!
+2002252	Did you see that? It did damage two times. Shot 1 gives enemies an electric shock so it does damage twice.
+2002253	Shot 2 calls Thor to attack by shooting three small adukas. You can raise the damage of Thor by hitting your opponent more.
+2002254	Aduka's SS shot penetrates and travels through the ground so take advantage of this. It's possible to hit many enemies at once.
+2002255	Now let's try Raon Launcher. Raon Launcher's shots are good at destroying the ground beneath your enemies.
+2002256	However, the power of Raon's shots, even on direct hit, are not as strong as other mobiles.
+2002257	Raon does has mini-robots though. They will approach nearby mobiles little by little every turn.
+2002258	Take Raon Launcher for a sprin!
+2002259	Try shot 1, shot 2 and SS shot!  Try each one once.
+2002260	Did you see that? Shot 1 shoots three missiles at once. Since three shots hit one spot, it can dig some deep holes.
+2002261	Did you see the mini-robots? Shot 2 fires two mini-robots. These robots will move closer to nearby mobiles around them.
+2002262	Sweet! Raon's SS creeps around unil it hits an enemy. This means you don't need to make a direct hit.
+2002263	How about we take a turn on Mage? Like other shield mobiles, Mage has a shield which slowly regenerates.
+2002264	Mage also has a wide range and truly powerful shots.
+2002265	Let's try a few rounds with Mage.
+2002266	Try shot 1, shot 2 and SS shot!  Try each one once.
+2002267	Awesome! Shot 1 fires a single laser.
+2002268	Shot 2 fires twin lasers that move in a swirl.
+2002269	Nice! Mage's SS shot gets rid of shieds for mobiles with shield defense systems.
+2002270	A.Sate can be kind of confusing. Do you see that weirld looking thing above your head?
+2002271	That's called a derivative and it is a weapon that shoots lasers wherever Sate points to.
+2002272	It is really unique, but hard to use sometimes.
+2002273	It gets harder for long distance shots because the lasers come from above your head.
+2002274	See if you can get the hand of A.Sate.
+2002275	Try shot 1, shot 2 and SS shot!  Try each one once.
+2002276	Shot 1 is a single laser shot from the derivative when it is closer to the ground.
+2002277	Wow! Shot 2 tells the derivative to fire three laser shots from a higher position.
+2002278	Whoa! A.Sate's SS shot fires five lasers from the derivative even higher in the air.  The shots come down at a steeper angle.
+2002279	This mobile is J.Frog. J.Frog look like a frog.  Obvious huh?
+2002280	Depending on what shot you use, the shots roll to the left or right then explode.
+2002281	It's easier to attack enemies on the ground but can be a little tricky when the terrain changes.
+2002282	Give it a try.
+2002283	Try shot 1, shot 2 and SS shot!  Give each one a shot.
+2002284	Did you see that? Shot 1 rolls counter clockwise from where it sticks to the ground.
+2002285	Great job! Unlike shot 1, shot 2 rolls clockwise.  Keep this in mind when you shoot.
+2002286	J.Frog's SS shot will roll counter clockwise, doing damage while it rolls. This is useful if there are lots of opponents in a small area.
+2002287	Let's meet Kalsodon. Kal can be powerful if you understand the shots.  Kal shots split into small missiles and come back together.
+2002288	Because of how the shot works, it is best used with high angle shots.
+2002289	If you don't get the right shot path, the damage tends to be kind of weak.
+2002290	Try some high angle shots with Kalsidon!
+2002291	Fire shot 1, shot 2 and SS shot!
+2002292	Seems simple enough right? Shot 1 splits into two mid-sized missiles before coming back together.
+2002293	Fantastic! Shot 2 splits into four small missiles.
+2002294	That looks like it could hurt!! Kalsidon's SS shot splits twice. If every part hits, that's a lot of damage.
+2002295	Who's next?  Oh yeah, let's look at J.D.  J.D. has good defense and a unique shot 2.
+2002296	Because of this, J.D. is good at playing a support role on the team.
+2002297	Let's try out some J.D. shots.
+2002298	Fire shot 1, shot 2 and SS shot!
+2002299	That's a pretty basic shot. Shot 1 gives an electric shock to your opponent's, causing some extra damage.
+2002300	It might have been hard to tell, but J.D. shot 2 brings other mobiles closer to where the shot hit. It's useful for moving mobiles.
+2002301	Nice. J.D.'s SS shot pushes mobiles away from where it lands.  Too bad it can't push players off the map.
+2002302	Let's take a look at Lightning.  As the name suggest, Lightning has an electric weapon system.
+2002303	Lightning calls upon the power of lighting to attack from the sky.
+2002304	Because all the power of the shots comes from the sky, Lightning is weak on maps that have a ceiling or roof.
+2002305	Go ahead and fire a few rounds to get the hang of it.
+2002306	Fire shot 1, shot 2 and SS shot!
+2002307	Does it make sense now? Shot 1 drops lightning straight down from the sky!
+2002308	See that? Shot 2 drops down two lightning bolts that form a V.
+2002309	Whoa, did you see that range? Lightning SS shot has a huge hit range.
+2002310	Grub is a bionic mobile with shots that bounce around. This makes it good against people inside holes in the ground.
+2002311	However, the shots are kind of weak unless they all make contact.
+2002312	Bouncing shots will blow up after some time so make sure they get to the opponents quickly.
+2002313	Let's see what Grub is capable of!
+2002314	Try shot 1, shot 2 and SS shot!  Use each one once.
+2002315	Shot 1 is a pretty normal shot. It can be used pretty easily.
+2002316	Alright! Grub's shot 2 fires four bouncing shots at once.  It's possible to bounce them off walls too.
+2002317	It was kind of hard to tell, but Grub's SS shot does damage while it's moving also. It's great if you can get it into a small hole.
+2002318	Meet Nak! Nak is really strong and also has also has a special skill.
+2002319	Nak has vibration shots that travel underground before exploding.
+2002320	Unfortunately, Nak has low mobility and takes some getting used to.
+2002321	Have some fun with Nak! See what you can do.
+2002322	Try shot 1, shot 2 and SS shot!  Try each one once.
+2002323	Shot 1 fires a regular shot. It is pretty simple and has no advantage or disadvantage.
+2002324	Shot 2 can be tricky. Did you see it travel through the ground before exploding? Keep that in mind when you use Nak.
+2002325	Nak's SS will travel through the ground like Aduka's, but Nak's won't travel through mobiles so it's harder to hit multiple targets.
+2002326	Now we are getting tricky.  Boomer is a tough mobile to master.  Fortunately, Boomer has a really wide angle for making shots.
+2002327	Boomer is kind of weak and is very vulnerable to the wind.
+2002328	Let's take Boomer out for a spin.
+2002329	Fire shot 1, shot 2 and SS shot!
+2002330	Nice. Boomer's shot 1 throws a single boomerang. Since it's a boomerang, it is affected a lot by the wind so be careful.
+2002331	Cool! Shot 2 is similar to shot 1 but it fires four boomerangs at once. If you can hit with all four that's quite a bit of damage.
+2002332	Ah! Did you see it? Boomer's SS shot unfolds into a golden boomerang after a while.  It needs to unfold for maximum damage!
+2002333	This is Ice. Ice looks like Mammoth and fires ice. Obvious huh?
+2002334	Ice also has the ability to decrease mobile defenses.
+2002335	You can decrease other mobile's defenses by up to 50%. Once a defence system is lowerd, it stays lowered until the game ends.
+2002336	Try it for yourself.
+2002337	Fire shot 1, shot 2 and SS shot!
+2002338	Good job! Ice's shot 1 fires a shard of ice. It can destroy a lot of ground.
+2002339	Snowballs! If another mobile is hit with Ice's shot 2, their defense system will decrease by 5%.
+2002340	Ice's SS shot is similar to shot 2. It can decrease a mobile's defence systems by 5%.
+2002341	Finally, let's take a look at Turtle. See that shell? It must be good for defense.
+2002342	On top of that, Turtle is pretty good with long distance high angle shots.
+2002343	Hmm... Turtle moves slow. Don't they all though? The mobility is very low.
+2002344	Does that make sense?  Give it a go yourself!
+2002345	One last time, let's try shot 1, shot 2 and SS shot!  Try each one once.
+2002346	That was pretty basic. Turtle's shot 1 is not very special but relatively strong.
+2002347	Shot 2 is where Turtle excels! It's similar to Mage shot 2, but the twin shots stop twirling after a distance. Try it with a high angle!
+2002348	Ok, it's pretty tricky. Turtle's SS shot fires a big huge water drop that will split into multiple attacks after a certain period of time.
+2002349	Phew!  That was a lot of info!  Hopefully now you understand the difference between mobiles. Well, that's all for this lesson!
+; Lesson 8	
+2002400	Next, let's hear about avatars! Avatars are items you wear to decorate yourself. Sometimes they give you additional stats.
+2002401	You buy and wear avatars from the avatar shop. You can enter the avatar shop by clicking the button on the right.
+2002402	Click the avatar shop button to enter the avatar shop.
+2002403	This is where you buy, try on, and wear avatars. Avatars are divided into head, body, glass, flag and EX item categories.
+2002404	Each item is worn on different parts. Let's take a look at them.
+2002405	Head avatars are… Well, for your head.
+2002406	Items also have their own stats so they can help during battle.
+2002407	Body avatar items are worn on the body. Think of it like a shirt.
+2002408	Glass avatars items are for your face, shoulders or hands.  It will depend on the item.
+2002409	Think of flag avatar items as an accessory. You will see the item behind you when you wear them.
+2002410	Sets are packages of avatars including head, body, glasses and flag.
+2002411	You get a discount so it is cheaper than buying them individually.
+2002412	EX items include all other items. You can buy expendable items to help in battle.
+2002413	There are also background and mascot items for showing off when waiting for games to start.
+2002414	That's pretty much it. It's a little difficult, but important. Avatars can really help you out!
+2002415	Right, so that's it… Pop quiz time!
+2002416	Get the answer right!
+2002417	Which type of avatar items do not change your stats?
+2002418	1. Head Avatar Items
+2002419	2. Flag Avatar Items
+2002420	3. Glass Avatar Items
+2002421	4. EX Items
+2002422	Man, you need to pay attention!  Try again…
+2002423	Wrong. Think, which type of avatar item is not worn?
+2002424	Nope, sorry.  Try again.
+2002425	Good job! EX items include expendable and decoration items.
+2002426	Now that you know a little about avatars, let's learn a little bit more about stats.
+2002427	Pay attention! I'm going to give you a quiz afterwards.
+2002428	There area total of eight different stats. The stats change the abilities of your mobile.
+2002429	The stats are Delay, Digging Power, Offense, Energy, Deffense, Item Delay, Shield Recovery and Popularity.
+2002430	Delay determines a mobile's delay. '-' lowers delay and '+' increases delay.
+2002431	Digging Power determines how much ground your shots destroy. '+' means more ground and '-' means less ground.
+2002432	Offense determines a mobile's offense.
+2002433	Energy determines a mobile's energy.
+2002434	Defense determines a mobile's defense. For all those stats '+' increases and '-' lowers the stat.
+2002435	Item Delay affects the delay you get from using an item.
+2002436	Just like Delay '-' lowers delay and '+' increases delay.
+2002437	Shield Recovery applies to shield defense systems only. It effects shield regeneration.
+2002438	Popularity effects how much gold you earn. For Shield Recovery and Popularity '+' increases and '-' decreases the stat.
+2002439	That pretty much explains all the stats.
+2002440	Remember to keep the stats in mind since they can help you win!
+2002441	Get the answer right!
+2002442	Here's the quiz I promised you. Which stat effects how much gold you earn?
+2002443	1. Offense
+2002444	2. Defense
+2002445	3. Item Delay
+2002446	4. Popularity
+2002447	I told you to pay attention! Offense changes a mobile's attack power.
+2002448	No, that's wrong. Defense changes a mobile's defense.  Isn't that obvious?
+2002449	Try again. Item Delay effects the delay from using an item.
+2002450	That's right! If you have a higher popularity, you will earn more gold.
+2002451	Now that you know about avatars, I'll teach you how to put them on.
+2002452	You see that area on your right? That's where you see what avatars you have.
+2002453	Wearable avatar items are listed first. Click the buttons to sort your inventory.
+2002454	To wear an item just double click the item you want to wear. Easy huh?
+2002455	For wearable items, you can wear one item of each type. Sorry, you can't have two heads.
+2002456	Double click on items to take them off.
+2002457	If you want to see your backgrounds or EX items, click here.
+2002458	In the same way, double click items to equip them.
+2002459	That's pretty much it. Practice wearing a head item so you get the hang of it.
+2002460	Equip a head avatar item.
+2002461	Double click on the item you want to wear.
+2002462	Great job! You will see your character is now wearing a head item.
+2002463	Get many different items to make yourself look cooler. Find a combination that suits you best.
+; Lesson 9	
+2002600	You've come a long and now we are at the final lesson. Get ready for a battle!
+2002601	Now that you're no longer a newbie, you should have no problem with this one.
+2002602	Finish this final lesson I'll give you a final prize. Good luck!
+2002603	In this lesson you will have to defeat Raon. Load up some items before you start!
+2002604	The battle will start right after you pick your mobile. Make sure you are ready then select your mobile!
+2002605	Defeat Raon!
+2002606	Don't give up! Damage him more to defeat him!
+2002607	Good shot!
+2002608	Ouch! Be careful!
+2002609	Watch out!
+2002610	Raon defeated! Great job! That's all the lessons I have for you… I'm so proud of you!
+2002611	Now let's see how you fair against other players. Go try a few games, and don't forget what you've learned. Best of luck!
+
+; Emoticon Command	
+2005000	/hi
+2005001	/bye
+2005002	/omg
+2005003	/helpme
+2005004	/ns
+2005005	/vns
+2005006	/nt
+2005007	/sorry
+2005008	/noob
+2005009	/thanks
+2005010	/fire
+2005011	/lol
+2005012	/....
+2005013	/T^T
+2005014	/:)
+2005015	/:s
+2005016	/xd
+2005017	/:<
+2005018	/kiss
+2005019	/sweet
+2005020	/boring
+
+; Emoticon String	
+2006000	*HI
+2006001	*Bye~
+2006002	*OMG
+2006003	*Help~
+2006004	*NS!
+2006005	*VNS!
+2006006	*NT~
+2006007	*Sorry~
+2006008	*Noob~
+2006009	*Thx
+2006010	*FIRE!
+2006011	*lol
+2006012	*....
+2006013	*T^T
+2006014	* :)
+2006015	* :S
+2006016	* XD
+2006017	* :<
+2006018	*I Love You :D
+2006019	* Sweet Heart♡
+2006020	* Boring..
+
+;version	
+3000000	Version :
+
+;특정아바타 가지고 있으면 포인트 주는 이벤트	
+4000000	163920
+4000001	131152
+4000002	229652
+
+5000000	1
+5000001	2
+5000002	3
+5000003	4
+5000004	5
+5000005	6
+5000006	7
+5000007	8
+5000008	9
+5000009	0
+5000007	8
+5000008	9
+5000009	0

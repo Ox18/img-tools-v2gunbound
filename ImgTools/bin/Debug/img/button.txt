@@ -1,0 +1,427 @@
+; 스크롤 버튼 (scroll button)												
+1	0	900000	4278190081	b_scroll_up	0	-8	13	10	NULL	NULL	NULL	TRUE
+1	1	900001	4278190082	b_scroll_down	0	0	13	10	NULL	NULL	NULL	TRUE
+; 서버 목록 버튼 (at the server list)												
+21	0	800028	101	b_gamelist_exit	743	535	52	66	Y	Exit 	Exit Gunbound to Windows	TRUE
+21	1	800030	103	b_gamelist_cashcharge	600	219	48	46	Y	Cash\nCharge	Open Cash Charge page	TRUE
+21	2	800032	104	b_gamelist_avatar	665	217	48	48	Y	Avatar\nShop	Dress up your avatar with cool and exciting items	TRUE
+21	3	800033	105	b_gamelist_option	640	540	40	60	Y	Option	Change game setting	TRUE
+;21	4	800035	106	b_gamelist_report	693	544	43	56	N	Report	Report users who are flooding chat rooms, using profanity or interfering with game play	FALSE
+21	4	800036	107	b_gamelist_event	594	552	28	48	Y	Event	NULL	TRUE
+21	5	810040	108	popup_userinfo_mute	700	545	25	25	NULL	MuteList	MuteList	TRUE
+21	6	810041	109	b_gamelist_myinfo2	700	570	25	25	NULL	Myinfo	Myinfo	TRUE
+21	7	800045	110	b_tutorial	735	223	38	39	Y	Tutorial	Learn how to play Gunbound.	TRUE
+; 옵션 모드 버튼 (at first time when select mobiles)												
+22	0	800143	199	b_option_mobile01	40	88	65	66	NULL	Armor	NULL	TRUE
+22	1	800144	200	b_option_mobile02	112	88	65	66	NULL	Mage	NULL	TRUE
+22	2	800145	201	b_option_mobile03	184	88	65	66	NULL	Nak	NULL	TRUE
+22	3	800146	202	b_option_mobile04	256	88	65	66	NULL	Trico	NULL	TRUE
+22	4	800147	203	b_option_mobile05	328	88	65	66	NULL	BigFoot	NULL	TRUE
+22	5	800148	204	b_option_mobile06	400	88	65	66	NULL	Boomer	NULL	TRUE
+22	6	800149	205	b_option_mobile07	40	154	65	66	NULL	Raonlauncher	NULL	TRUE
+22	7	800150	206	b_option_mobile08	112	154	65	66	NULL	Lightening	NULL	TRUE
+22	8	800151	207	b_option_mobile09	184	154	65	66	NULL	JD	NULL	TRUE
+22	9	800152	208	b_option_mobile10	256	154	65	66	NULL	A.Sate	NULL	TRUE
+22	10	800153	209	b_option_mobile11	328	154	65	66	NULL	Ice	NULL	TRUE
+22	11	800154	210	b_option_mobile12	400	154	65	66	NULL	Turtle	NULL	TRUE
+22	12	800155	211	b_option_mobile13	40	220	65	66	NULL	Grub	NULL	TRUE
+22	13	800156	212	b_option_mobile14	112	220	65	66	NULL	Aduka	NULL	TRUE
+22	14	800157	213	b_option_mobile15	184	220	65	66	NULL	Kalsiddon	NULL	TRUE
+22	15	800158	214	b_option_mobile16	256	220	65	66	NULL	J.Frog	NULL	TRUE
+; new code start												
+22	16	800159	215	b_option_mobile17	328	220	65	66	NULL	Phoenix	NULL	TRUE
+22	17	800160	216	b_option_mobile17	328	220	65	66	NULL	Phoenix	NULL	FALSE
+22	18	800161	217	b_option_mobile17	328	220	65	66	NULL	Phoenix	NULL	FALSE
+22	19	800162	218	b_option_mobile18	400	220	65	66	NULL	Random	NULL	TRUE
+22	20	800163	219	b_option_item001	79	399	78	55	NULL	NULL	NULL	TRUE
+22	21	800164	220	b_option_item002	179	399	78	55	NULL	NULL	NULL	TRUE
+22	22	800165	221	b_option_item003	279	399	78	55	NULL	NULL	NULL	TRUE
+22	23	800166	222	b_option_item004	379	399	78	55	NULL	NULL	NULL	TRUE
+22	24	800167	223	b_option_item005	79	460	78	55	NULL	NULL	NULL	TRUE
+22	25	800168	224	b_option_item006	179	460	78	55	NULL	NULL	NULL	TRUE
+22	26	800169	225	b_option_item007	279	460	78	55	NULL	NULL	NULL	TRUE
+22	27	800170	226	b_option_item008	379	460	78	55	NULL	NULL	NULL	TRUE
+22	28	800171	227	b_option_item009	79	521	78	55	NULL	NULL	NULL	TRUE
+22	29	800172	228	b_option_item010	179	521	78	55	NULL	NULL	NULL	TRUE
+22	30	800173	229	b_option_item011	279	521	78	55	NULL	NULL	NULL	TRUE
+22	31	800174	230	b_option_exit	9	533	52	64	Y	Exit	Go to World Server list	TRUE
+; new code end												
+; 게임 목록 모드 하단 메인 버튼 (at the channel option)												
+31	0	800128	128	b_gamelist_back	743	538	52	62	Y	Back	Go to World Server list	TRUE
+31	1	800030	130	b_gamelist_cashcharge	600	219	48	46	Y	Cash\nCharge	Open Cash Charge page	TRUE
+31	2	800032	132	b_gamelist_avatar	665	217	48	48	Y	Avatar\nShop	Dress up your avatar with cool and exciting items	TRUE
+31	3	810037	145	b_gamelist_option	640	540	40	60	Y	Option	Change game setting	TRUE
+;31	4	810038	146	b_gamelist_report	693	544	43	56	N	Report	Report users who are flooding chat rooms, using profanity or interfering with game play	FALSE
+31	4	810039	139	b_gamelist_event	594	552	28	48	Y	Event	NULL	TRUE
+31	5	810040	135	popup_userinfo_mute	700	545	25	25	NULL	MuteList	MuteList	TRUE
+31	6	810041	136	b_gamelist_myinfo2	700	570	25	25	NULL	Myinfo	Myinfo	TRUE
+31	7	810056	504	b_nobugle	157	431	23	32	Y	NULL	Mute all message from the Bugle.	TRUE
+31	8	810057	505	b_nob	157	431	23	32	Y	NULL	Allow all message from the Bugle.	TRUE
+31	9	800045	137	b_tutorial	735	223	38	39	Y	Tutorial	Learn how to play Gunbound.	TRUE
+; 게임 목록 모드 상단 서브 버튼 (at the channel mode select)												
+32	0	800010	110	b_gamelist_solo	258	32	44	48	Y	Solo	Show list of solo game rooms	TRUE
+32	1	800011	111	b_gamelist_tag	310	32	44	48	Y	Tag	Show list of tag game rooms	TRUE
+32	2	800012	112	b_gamelist_score	360	32	44	48	Y	Score	Show list of score game rooms	TRUE
+32	3	800013	113	b_gamelist_jewel	411	32	44	48	Y	Jewel	Show list of Jewel game rooms	TRUE
+32	4	800014	114	b_gamelist_viewall	463	32	44	48	Y	All	Show list of all game rooms	TRUE
+32	5	800016	116	b_gamelist_friend	515	32	44	48	Y	Friend	Show buddy's game room list	TRUE
+32	6	800034	134	b_gamelist_create	202	32	40	48	Y	Create 	Create a new game room	TRUE
+32	7	800009	109	b_gamelist_up	533	160	28	37	Y	NULL	NULL	TRUE
+32	8	800018	118	b_gamelist_down	533	293	28	37	Y	NULL	NULL	TRUE
+32	9	800017	117	b_gamelist_wait	463	32	44	48	Y	Waiting	Show list of waiting rooms	TRUE
+; 게임 목록 모드 체팅 버튼 (at the channel list)												
+33	0	800020	120	b_gamelist_ch1	356	419	12	14	NULL	NULL	Join channel 1	TRUE
+33	1	800021	121	b_gamelist_ch2	376	419	12	14	NULL	NULL	Join channel 2	TRUE
+33	2	800022	122	b_gamelist_ch3	398	419	12	14	NULL	NULL	Join channel 3	TRUE
+33	3	800023	123	b_gamelist_ch4	418	419	12	14	NULL	NULL	Join channel 4	TRUE
+33	4	800024	124	b_gamelist_ch5	439	420	12	14	NULL	NULL	Join channel 5	TRUE
+33	5	800025	125	b_gamelist_ch6	460	419	12	14	NULL	NULL	Join channel 6	TRUE
+33	6	800026	126	b_gamelist_ch7	481	420	12	14	NULL	NULL	Join channel 7	TRUE
+33	7	800027	127	b_gamelist_ch8	503	419	12	14	NULL	NULL	Join channel 8	TRUE
+33	8	810042	500	b_gamelist_goto	478	461	48	51	Y	GO TO	Room shortcut key	TRUE
+33	9	810043	501	b_gamelist_quick	466	517	51	50	Y	Quick Join	Join quickly to front room	TRUE
+33	10	810054	502	b_color	88	426	21	36	Y	NULL	Change your font color 	TRUE
+33	11	810055	503	b_bugle	123	430	20	32	Y	NULL	Send your message to everyone in channels	TRUE
+; 게임 만들기 모드 버튼 (creat room)												
+34	0	800037	137	b_makeroom_left	181	117	9	9	NULL	NULL	NULL	TRUE
+34	1	800038	138	b_makeroom_right	290	117	9	9	NULL	NULL	NULL	TRUE
+34	2	800039	139	b_makeroom_left	181	138	9	9	NULL	NULL	NULL	TRUE
+34	3	800040	140	b_makeroom_right	290	138	9	9	NULL	NULL	NULL	TRUE
+34	4	800041	141	b_popup_ok	207	230	44	19	NULL	NULL	Create a new game room	TRUE
+34	5	800042	142	b_popup_cancel	264	230	65	19	NULL	NULL	Cancel create a game room	TRUE
+; 바로가기 버튼 (quick join)												
+35	0	800043	143	b_popup_ok	146	120	44	19	NULL	NULL	Join selected game room	TRUE
+35	1	800044	144	b_popup_cancel	203	120	65	19	NULL	NULL	Cancel  'Join room'	TRUE
+; 게임 목록 채널 버튼 (at the buddy)												
+36	0	810053	251	b_channel_cancel	203	269	30	29	NULL	NULL	Close Buddy list	TRUE
+; My Info 버튼 (at the My Info)												
+38	0	813801	381	b_create_ok	234	86	30	29	NULL	NULL	Close	TRUE
+; 게임 모드 옵션 버튼 (at the game mode option)												
+39	0	837000	370	b_play_optioncheck	142	60	10	10	NULL	NULL	NULL	TRUE
+39	1	837001	371	b_play_optioncheck	278	60	10	10	NULL	NULL	NULL	TRUE
+39	2	837002	372	b_play_optioncheck	142	154	10	10	NULL	NULL	NULL	TRUE
+39	3	837003	373	b_play_optioncheck	217	154	10	10	NULL	NULL	NULL	TRUE
+39	4	837004	374	b_play_optioncheck	278	154	10	10	NULL	NULL	NULL	TRUE
+39	5	837005	375	b_play_optioncheck	142	170	10	10	NULL	NULL	NULL	TRUE
+39	6	837006	376	b_play_optioncheck	278	170	10	10	NULL	NULL	NULL	TRUE
+39	7	837007	377	b_play_optioncheck	142	186	10	10	NULL	NULL	NULL	TRUE
+39	8	837008	378	b_play_optioncheck	278	186	10	10	NULL	NULL	NULL	TRUE
+39	9	837009	379	b_popup_ok	254	209	44	19	NULL	NULL	NULL	TRUE
+;그랑프리 (at the grandprix system)												
+40	0	800019	1	b_gamelist_quick	490	380	70	60	Y	Join the GrandPrix	Please click here if you want to join the GrandPrix	TRUE
+; 상점 하단 메인 버튼 (at the avatar shop down menu)												
+41	0	800075	175	b_gamelist_back	743	538	52	62	Y	Back	Exit avatar shop and go to waiting room	TRUE
+41	1	800077	176	b_avatar_cashcharge	486	550	48	46	Y	Cash Charge	Open Cash Charge page	TRUE
+41	2	800078	177	b_avatar_buy	172	531	64	64	Y	Buy	Buy selected avatar item with Cash or Gold	TRUE
+41	3	800079	178	b_avatar_try	326	531	64	64	Y	Try	Try on selected avatar item	TRUE
+41	4	800080	179	b_avatar_gift	248	532	64	64	Y	Gift	Gift selected avatar item	TRUE
+;41	5	800081	180	b_gamelist_report	693	544	43	56	N	Report	Change game setting	FALSE
+41	5	800082	181	b_gamelist_option	640	540	40	60	Y	Option	Report users who are flooding chat rooms, using profanity or interfering with game play	TRUE
+41	6	800083	182	b_gamelist_event	594	552	28	48	Y	Event	NULL	TRUE
+;41	7	810040	183	popup_userinfo_mute	700	545	25	25	NULL	MuteList	MuteList	TRUE
+;41	8	810041	184	b_gamelist_myinfo2	700	570	25	25	NULL	Myinfo	Myinfo	TRUE
+; 상점 목록 서브 버튼 (at the avatar shop my avatar sorting menu)												
+42	0	800053	153	b_avatar_left	55	542	44	40	Y	NULL	Show previous avatar item list	TRUE
+42	1	800056	156	b_avatar_hat	206	33	44	40	Y	Head	Show list of head avatar	TRUE
+42	2	800057	157	b_avatar_clothes	260	33	44	40	Y	Body	Show list of body avatars	TRUE
+42	3	800058	158	b_avatar_glasses	314	33	44	40	Y	Glass	Show list of glasses avatars	TRUE
+42	4	800059	159	b_avatar_flag	371	28	44	45	Y	Flag	Show list of flag avatars	TRUE
+42	5	800062	162	b_avatar_setitem	452	33	44	40	Y	Set	Show list of set items	TRUE
+42	6	800063	163	b_avatar_exitem	505	33	45	40	Y	Ex Item	Show list of all other Items that are not worn 	TRUE
+42	7	800065	164	b_avatar_right	105	542	44	40	Y	NULL	Show next avatar item list	TRUE
+;42	8	800064	165	b_avatar_exitem2	515	33	45	40	Y	Ex Item2	Ex Item2	TRUE
+; 내 아바타 목록 변경 버튼 (at the avatar shop my avatar control menu)												
+;43	0	900076	276	b_avatar_selectavatar	14	210	71	15	NULL	Normal	Show normal item list	TRUE
+;43	1	900077	277	b_avatar_selectexitem	85	210	82	15	NULL	Ex Item	Show EX item list	TRUE
+; 아이템 구입 버튼 (at the avatar shop buy control menu)												
+44	0	800440	440	b_buy_cash	248	317	30	34	NULL	Cash	Buy avatar item with Cash	TRUE
+44	1	800441	441	b_buy_gold	293	317	30	34	NULL	Gold	Buy avatar item with Gold	TRUE
+44	2	800442	442	b_buy_cancel	344	317	30	34	NULL	Cancel	Cancel avatar purchase	TRUE
+44	3	800443	443	arrow_left_shop	240	299	35	35	NULL	NULL	NULL	TRUE
+44	4	800444	444	arrow_right_shop	362	299	35	35	NULL	NULL	NULL	TRUE
+; 아이템 선물 버튼 (at the avatar shop gift control menu)												
+45	0	845080	450	b_buy_cash	248	319	30	34	NULL	Cash	Buy selected avatar item with Cash 	TRUE
+45	1	845081	451	b_buy_gold	293	319	30	34	NULL	Gold	Buy selected avatar item with Gold	TRUE
+45	2	845082	452	b_buy_cancel	344	319	30	34	NULL	Cancel	Cancel avatar purchase 	TRUE
+45	3	845083	453	arrow_left_shop	220	241	12	9	NULL	NULL	NULL	TRUE
+45	4	845084	454	arrow_right_shop	342	241	12	9	NULL	NULL	NULL	TRUE
+45	5	845085	455	arrow_left_shop	220	257	12	9	NULL	NULL	NULL	TRUE
+45	6	845086	456	arrow_right_shop	342	257	12	9	NULL	NULL	NULL	TRUE
+; 아이템 팔기 버튼 (at the avatar shop my avatar sell menu)												
+46	0	820083	283	b_popup_ok	188	123	44	19	NULL	NULL	NULL	TRUE
+46	1	820084	284	b_popup_cancel	245	123	65	19	NULL	NULL	NULL	TRUE
+; 아이템 받기 버튼 (at the avatar shop receive avatar menu)												
+47	0	847001	470	b_popup_ok	312	261	44	19	NULL	NULL	Accept gift	TRUE
+;47	0	847001	470	b_popup_ok	255	261	44	19	NULL	NULL	Accept gift	TRUE
+;47	1	847002	471	b_popup_cancel	312	261	65	19	NULL	NULL	Deny gift 	TRUE
+; 아이템 받기 여부 확인 버튼 (at the avatar shop receive avatar menu)												
+48	0	847003	472	b_popup_ok	326	184	44	19	NULL	NULL	NULL	TRUE
+;컬러채팅 인터페이스 (color chatting interface)												
+49	0	848001	101	b_col_1	49	49	40	40	NULL	NULL	NULL	TRUE
+49	1	848002	102	b_col_2	105	49	40	40	NULL	NULL	NULL	TRUE
+49	2	848003	103	b_col_3	161	49	40	40	NULL	NULL	NULL	TRUE
+49	3	848004	104	b_col_4	217	49	40	40	NULL	NULL	NULL	TRUE
+49	4	848005	105	b_col_5	49	98	40	40	NULL	NULL	NULL	TRUE
+49	5	848006	106	b_col_6	105	98	40	40	NULL	NULL	NULL	TRUE
+49	6	848007	107	b_col_7	161	98	40	40	NULL	NULL	NULL	TRUE
+49	7	848008	108	b_col_8	217	98	40	40	NULL	NULL	NULL	TRUE
+49	8	848009	109	b_col_9	49	147	40	40	NULL	NULL	NULL	TRUE
+49	9	848010	110	b_col_10	105	147	40	40	NULL	NULL	NULL	TRUE
+49	10	848011	111	b_col_11	161	147	40	40	NULL	NULL	NULL	TRUE
+49	11	848012	112	b_col_12	217	147	40	40	NULL	NULL	NULL	TRUE
+49	12	848013	113	b_col_13	49	196	40	40	NULL	NULL	NULL	TRUE
+49	13	848014	114	b_col_14	105	196	40	40	NULL	NULL	NULL	TRUE
+49	14	848015	115	b_col_15	161	196	40	40	NULL	NULL	NULL	TRUE
+49	15	848016	116	b_col_16	217	196	40	40	NULL	NULL	NULL	TRUE
+49	16	848017	117	b_col_9	49	245	40	40	NULL	NULL	NULL	TRUE
+49	17	848018	118	b_col_10	105	245	40	40	NULL	NULL	NULL	TRUE
+49	18	848019	119	b_col_11	161	245	40	40	NULL	NULL	NULL	TRUE
+49	19	848020	120	b_col_12	217	245	40	40	NULL	NULL	NULL	TRUE
+49	20	848021	121	b_col_13	49	294	40	40	NULL	NULL	NULL	TRUE
+49	21	848022	122	b_col_14	105	294	40	40	NULL	NULL	NULL	TRUE
+49	22	848023	123	b_col_15	161	294	40	40	NULL	NULL	NULL	TRUE
+49	23	848024	124	b_col_16	217	294	40	40	NULL	NULL	NULL	TRUE
+;플레이어 정보 버튼												
+50	0	800800	800	b_popup_useinfo_left	154	110	16	20	NULL	NULL	Back	TRUE
+50	1	800801	801	b_popup_useinfo_right	463	110	16	20	NULL	NULL	Next	TRUE
+50	2	800802	802	popup_userinfo_chat	172	200	32	36	NULL	Chat	Chatting	TRUE
+50	3	800803	803	b_buddy_add	233	200	32	36	NULL	Add	Add Buddy	TRUE
+;50	4	800804	804	b_popup_collector	304	204	40	32	NULL	Collector's book	collector's book	TRUE
+;50	5	800805	805	b_popup_collector	377	205	40	32	NULL	Invite	Invite	TRUE
+50	4	800806	806	popup_userinfo_exit	437	203	32	36	NULL	Exit 	Exit	TRUE
+; Tutorial Lesson Window												
+51	0	847004	400	b_lesson_start	439	510	76	55	NULL	NULL	NULL	TRUE
+; Tutorial Text Window												
+52	0	847001	400	b_ok	405	130	82	18	NULL	NULL	NULL	TRUE
+; 대기실 하단 메인 버튼 (at the waiting room down menu)												
+91	0	800092	192	b_gamelist_back	743	538	52	62	Y	Back	Exit game room and go to waiting room	TRUE
+91	1	800090	190	b_gamelist_option	640	540	40	60	Y	Option	Change game setting	TRUE
+;91	2	800093	193	b_gamelist_report	693	544	43	56	N	Report	Report users who are flooding chat rooms, using profanity or interfering with game play	TRUE
+91	2	800094	194	b_gamelist_event	594	552	28	48	Y	Event	NULL	TRUE
+91	3	810040	195	popup_userinfo_mute	700	545	25	25	NULL	MuteList	MuteList	TRUE
+91	4	810041	196	b_gamelist_myinfo2	700	570	25	25	NULL	Myinfo	Myinfo	TRUE
+; 대기실 상당 서브 버튼 (at the waiting room sub menu)												
+92	0	800085	185	b_ready_title	8	0	21	21	NULL	NULL	NULL	TRUE
+92	1	800088	188	b_ready_mobile	235	342	44	40	Y	Mobile	Select mobile	TRUE
+92	2	800091	191	b_ready_team	289	346	44	40	Y	Team	Change team 	TRUE
+92	3	800099	199	b_ready_room_option	506	26	55	83	Y	NULL	Change game options	TRUE
+92	4	800098	198	b_ready_start	234	209	96	85	Y	NULL	Start Game	TRUE
+92	5	800097	197	b_ready_ready	234	209	96	85	Y	NULL	Ready for start	TRUE
+92	6	800100	200	b_color	234	305	21	36	Y	NULL	Change your font color 	TRUE
+92	7	800101	201	b_bugle	269	307	20	32	Y	NULL	Send your message to everyone in channels	TRUE
+92	8	800102	202	b_nobugle	305	307	23	32	Y	NULL	Block Horn messages	TRUE
+92	9	800103	203	b_nob	305	307	23	32	Y	NULL	Allow all message from the Bugle	TRUE
+; 대기실 모빌 선택 버튼 (at the waiting room mobile select menu)												
+94	0	801143	199	b_mobile01	117	79	65	60	NULL	Armor	NULL	TRUE
+94	1	801144	200	b_mobile02	249	140	65	60	NULL	Mage	NULL	TRUE
+94	2	801145	201	b_mobile03	150	262	65	60	NULL	Nak	NULL	TRUE
+94	3	801146	202	b_mobile04	446	79	65	60	NULL	Trico	NULL	TRUE
+94	4	801147	203	b_mobile05	183	79	65	60	NULL	BigFoot	NULL	TRUE
+94	5	801148	204	b_mobile06	381	262	65	60	NULL	Boomer	NULL	TRUE
+94	6	801149	205	b_mobile07	183	140	65	60	NULL	Raonlauncher	NULL	TRUE
+94	7	801150	206	b_mobile08	315	201	65	60	NULL	Lightening	NULL	TRUE
+94	8	801151	207	b_mobile09	249	201	65	60	NULL	JD	NULL	TRUE
+94	9	801152	208	b_mobile10	315	140	65	60	NULL	A.Sate	NULL	TRUE
+94	10	801153	209	b_mobile11	447	262	65	60	NULL	Ice	NULL	TRUE
+94	11	801154	210	b_mobile12	514	262	65	60	NULL	Turtle	NULL	TRUE
+94	12	801155	211	b_mobile13	446	201	65	60	NULL	Grub	NULL	TRUE
+94	13	801156	212	b_mobile14	117	172	65	60	NULL	Aduka	NULL	TRUE
+94	14	801157	213	b_mobile15	183	201	65	60	NULL	Kalsiddon	NULL	TRUE
+94	15	801158	214	b_mobile16	446	140	65	60	NULL	J.Frog	NULL	TRUE
+; new code start												
+94	16	809416	215	b_mobile18	249	262	65	60	NULL	Phoenix	NULL	TRUE
+94	17	809417	216	b_mobile18	249	262	65	60	NULL	Phoenix	NULL	FALSE
+94	18	809418	217	b_mobile18	249	262	65	60	NULL	Phoenix	NULL	FALSE
+94	19	809419	218	b_mobile17	117	324	65	60	NULL	Random	NULL	TRUE
+94	20	809420	219	b_popup_ok	424	516	44	19	NULL	NULL	NULL	TRUE
+94	21	809421	220	b_popup_cancel	481	516	65	19	NULL	NULL	NULL	TRUE
+; new code end												
+; 대기실 아이템 선택 버튼 (at the waiting room game item select menu)												
+95	0	895002	951	b_ready_item001	14	160	69	31	NULL	NULL	NULL	TRUE
+95	1	895003	952	b_ready_item002	90	196	34	31	NULL	NULL	NULL	TRUE
+95	2	895004	953	b_ready_item003	14	274	69	31	NULL	NULL	NULL	TRUE
+95	3	895005	954	b_ready_item004	166	196	34	31	NULL	NULL	NULL	TRUE
+95	4	895006	955	b_ready_item005	90	160	69	31	NULL	NULL	NULL	TRUE
+95	5	895007	956	b_ready_item006	166	238	34	31	NULL	NULL	NULL	TRUE
+95	6	895008	957	b_ready_item007	90	238	69	31	NULL	NULL	NULL	TRUE
+95	7	895009	958	b_ready_item008	128	196	34	31	NULL	NULL	NULL	TRUE
+95	8	895010	959	b_ready_item009	166	160	34	31	NULL	NULL	NULL	TRUE
+95	9	895011	960	b_ready_item010	14	196	69	31	NULL	NULL	NULL	TRUE
+95	10	895012	961	b_ready_item011	14	238	69	31	NULL	NULL	NULL	TRUE
+95	11	895013	962	b_ready_optionleft	3	228	9	9	NULL	NULL	NULL	TRUE
+95	12	895014	963	b_ready_optionright	203	228	9	9	NULL	NULL	NULL	TRUE
+; 대기실 게임 옵션 버튼 (at the waiting room game option menu)												
+96	0	800130	230	b_ready_optionleft	89	63	9	9	NULL	NULL	NULL	TRUE
+96	1	800131	231	b_ready_optionright	211	63	9	9	NULL	NULL	NULL	TRUE
+96	2	800132	232	b_ready_optionleft	89	108	9	9	NULL	NULL	NULL	TRUE
+96	3	800133	233	b_ready_optionright	211	108	9	9	NULL	NULL	NULL	TRUE
+96	4	800134	234	b_ready_optionleft	89	153	9	9	NULL	NULL	NULL	TRUE
+96	5	800135	235	b_ready_optionright	211	153	9	9	NULL	NULL	NULL	TRUE
+96	6	800136	236	b_ready_check	275	175	13	13	NULL	NULL	NULL	TRUE
+96	7	800137	237	b_ready_check	275	199	13	13	NULL	NULL	NULL	TRUE
+96	8	800138	238	b_ready_optionleft	89	251	9	9	NULL	NULL	NULL	TRUE
+96	9	800139	239	b_ready_optionright	211	251	9	9	NULL	NULL	NULL	TRUE
+96	10	800140	240	b_ready_optionleft	89	296	9	9	NULL	NULL	NULL	TRUE
+96	11	800141	241	b_ready_optionright	211	296	9	9	NULL	NULL	NULL	TRUE
+96	12	800142	242	b_ready_check	45	346	13	13	NULL	NULL	NULL	TRUE
+96	13	801161	243	b_ready_check	145	346	13	13	NULL	NULL	NULL	TRUE
+96	14	801162	244	b_ready_check	245	346	13	13	NULL	NULL	NULL	TRUE
+96	15	801163	245	b_popup_ok	290	374	44	19	NULL	NULL	NULL	TRUE
+;96	16	801164	246	b_popup_cancel	280	344	65	19	NULL	NULL	NULL	TRUE
+; 대기실 게임 제목 변경 버튼 (at the waiting room title change menu)												
+98	0	840001	887	b_popup_ok	146	120	44	19	NULL	NULL	NULL	TRUE
+98	1	840002	888	b_popup_cancel	203	120	65	19	NULL	NULL	NULL	TRUE
+; 이모티콘 창												
+99	0	847001	400	b_ok	186	229	82	18	NULL	NULL	NULL	TRUE
+; 버디 메인 창 버튼 (at the buddy main menu)												
+;100	0	800300	300	b_buddy_add	32	287	30	34	NULL	Add	Add Buddy	TRUE
+;100	1	800301	301	b_buddy_delete	32	287	30	34	NULL	Delete	Delete Buddy 	TRUE
+;100	2	800302	302	b_buddy_exit	318	284	30	34	NULL	Close	Close Buddy List	TRUE
+;100	3	810000	310	b_buddy_invite	99	285	30	34	NULL	Invite	In progress	TRUE
+;100	4	810001	311	b_buddy_mute	177	286	30	34	NULL	Mute	Add user to Mute List	TRUE
+;100	5	810002	312	b_buddy_report	244	284	30	34	NULL	Report	Report users who are flooding chat rooms, using profanity or interfering with game play	TRUE
+;100	6	810003	313	b_buddy_mute	177	286	30	34	NULL	Delete	Delete user from Mute List	TRUE
+100	0	800310	300	b_buddy_add2	32	287	30	34	NULL	Add	Add Buddy	TRUE
+100	1	800311	301	b_buddy_delete2	32	287	30	34	NULL	Delete	Delete Buddy 	TRUE
+; 버디 채팅 창 버튼 (at the buddy chatting window)												
+;101	0	800303	303	b_buddy_cancel	203	121	30	34	NULL	Cancel	Cancel Buddy	TRUE
+;101	1	800304	304	b_buddy_cancel2	203	272	30	29	NULL	NULL	NULL	TRUE
+101	0	800300	300	b_buddy_add	32	287	30	34	NULL	Add	Add Buddy	TRUE
+101	1	800301	301	b_buddy_delete	32	287	30	34	NULL	Delete	Delete Buddy 	TRUE
+101	2	800302	302	b_buddy_exit	318	284	30	34	NULL	Close	Close Buddy List	TRUE
+101	3	810000	310	b_buddy_invite	99	285	30	34	NULL	Invite	In progress	TRUE
+101	4	810001	311	b_buddy_mute	177	286	30	34	NULL	Mute	Add user to Mute List	TRUE
+;101	5	810002	312	b_buddy_report	244	284	30	34	NULL	Report	Report users who are flooding chat rooms, using profanity or interfering with game play	TRUE
+101	5	810003	313	b_buddy_mute	177	286	30	34	NULL	Delete	Delete user from Mute List	TRUE
+;  버디 친구 추가 수락/거절 (at the buddy add/reject menu)												
+102	0	800305	305	b_popup_ok	166	148	44	19	NULL	NULL	NULL	TRUE
+102	1	800306	306	b_popup_cancel	223	148	65	19	NULL	NULL	NULL	TRUE
+; 버디 친구 추가 수락/거절 여부 버튼 (at the buddy add/reject menu)												
+103	0	800307	307	b_popup_ok	231	148	44	19	NULL	NULL	NULL	TRUE
+; 뮤트 리스트 메인 (at the mute list menu)												
+110	0	800300	1100	b_mute_add	135	268	30	34	NULL	Add	Add user to Mute List	TRUE
+110	1	800301	1101	b_mute_delete	168	268	30	34	NULL	Delete	Delete user from Mute List	TRUE
+110	2	800302	1102	b_mute_exit	204	268	30	34	NULL	Close	Close Mute List	TRUE
+;	2	800302	1102	b_mute_exit	204	268	30	34	NULL	Close	Close Mute List	TRUE
+; 신고하기 메인 버튼 (at the report menu)												
+199	0	800398	400	b_report_ok2	180	266	30	29	NULL	NULL	NULL	TRUE
+199	1	800399	401	b_report_cancel2	220	266	30	29	NULL	NULL	NULL	TRUE
+; 뮤트 리스트 추가 버튼 (at the mute list add)												
+200	0	800400	400	b_popup_ok	116	138	44	19	NULL	NULL	NULL	TRUE
+200	1	800401	401	b_popup_cancel	173	138	65	19	NULL	NULL	NULL	TRUE
+; 뮤트 리스트 삭제 버튼 (at the mute list delete)												
+201	0	800400	400	b_popup_ok	116	138	44	19	NULL	NULL	NULL	TRUE
+201	1	800401	401	b_popup_cancel	173	138	65	19	NULL	NULL	NULL	TRUE
+; 뮤트 리스트 추가 버튼 (at the mute list add)												
+202	0	800400	400	b_popup_ok	116	138	44	19	NULL	NULL	NULL	TRUE
+202	1	800401	401	b_popup_cancel	173	138	65	19	NULL	NULL	NULL	TRUE
+; 뮤트 리스트 삭제 버튼 (at the mute list delete)												
+203	0	800400	400	b_popup_ok	116	138	44	19	NULL	NULL	NULL	TRUE
+203	1	800401	401	b_popup_cancel	173	138	65	19	NULL	NULL	NULL	TRUE
+; 뮤트 리스트 (at the mute list)												
+205	0	800400	400	b_popup_ok	116	138	44	19	NULL	NULL	NULL	TRUE
+205	1	800401	401	b_popup_cancel	173	138	65	19	NULL	NULL	NULL	TRUE
+; 그랑프리 (at the GrandPrix join)												
+;206	0	800400	400	b_popup_ok	116	138	44	19	NULL	NULL	Change to QuickStart	TRUE
+206	0	800401	401	b_popup_cancel	173	112	65	19	NULL	NULL	Exit	TRUE
+; 게임 인터페이스 버튼 (at the game interface menu)												
+300	0	805001	601	b_play_option	3	47	25	22	NULL	NULL	Change game setting	TRUE
+300	1	805002	602	b_play_moondisc	3	24	25	22	NULL	NULL	Moon disc on/off 	TRUE
+300	2	805003	603	b_play_turn	3	1	25	22	NULL	NULL	Turn list on/off 	TRUE
+300	3	805004	604	b_play_weapon1	208	0	24	21	NULL	NULL	Select Weapon 1	TRUE
+300	4	805005	605	b_play_weapon2	189	21	24	21	NULL	NULL	Select Weapon 2	TRUE
+300	5	805006	606	b_play_weapon3	185	50	26	21	NULL	NULL	Select SS Weapon	TRUE
+300	6	805007	607	b_play_tag	754	-4	44	43	Y	Tag	Swap tag mobile 	TRUE
+300	7	805008	608	b_play_slice	346	38	37	34	NULL	NULL	NULL	TRUE
+300	8	850001	619	b_play_turn2	295	51	19	26	NULL	NULL	NULL	TRUE
+;뉴모드 (at the game interface option new mode)												
+300	9	810101	601	b_play_option_blue	12	53	58	21	NULL	NULL	Change game setting	TRUE
+300	10	810102	602	b_play_moondisc_blue	3	24	25	22	NULL	NULL	Moon disc on/off 	TRUE
+300	11	810103	603	b_play_turn_blue	12	53	25	22	NULL	NULL	Turn list on/off 	TRUE
+300	12	810104	604	b_play_weapon1_blue	12	16	35	35	NULL	NULL	Select Weapon 1	TRUE
+300	13	810105	605	b_play_weapon2_blue	55	16	35	35	NULL	NULL	Select Weapon 2	TRUE
+300	14	810106	606	b_play_weapon3_blue	98	16	35	35	NULL	NULL	Select SS Weapon	TRUE
+300	15	810107	607	b_play_tag_blue	668	29	39	36	Y	Tag	Swap tag mobile 	TRUE
+300	16	810108	608	b_play_slice_blue	203	39	37	34	NULL	NULL	NULL	TRUE
+300	17	850101	619	b_play_turn2_blue	75	53	58	21	NULL	NULL	NULL	TRUE
+; 게임 옵션 버튼 (at the game interface game option menu)												
+302	0	880016	616	b_play_optioncheck	149	38	10	10	NULL	NULL	NULL	TRUE
+302	1	880017	617	b_play_optioncheck	285	38	10	10	NULL	NULL	NULL	TRUE
+302	2	880018	620	b_play_optioncheck	149	132	10	10	NULL	NULL	NULL	TRUE
+302	3	880019	621	b_play_optioncheck	224	132	10	10	NULL	NULL	NULL	TRUE
+302	4	880020	622	b_play_optioncheck	285	132	10	10	NULL	NULL	NULL	TRUE
+302	5	880021	623	b_play_optioncheck	149	148	10	10	NULL	NULL	NULL	TRUE
+302	6	880022	624	b_play_optioncheck	285	148	10	10	NULL	NULL	NULL	TRUE
+302	7	880023	625	b_play_ok	163	188	116	20	NULL	OK	Saving settings	TRUE
+302	8	880024	626	b_play_giveup	35	188	116	20	NULL	Surrender	Surrender and quit game	TRUE
+302	9	880025	627	b_play_optioncheck2	122	89	27	11	NULL	NULL	NULL	TRUE
+302	10	880026	628	b_play_optioncheck2	122	110	27	11	NULL	NULL	NULL	TRUE
+302	11	880027	629	b_play_optioncheck	149	165	10	10	NULL	NULL	NULL	TRUE
+302	12	880028	630	b_play_optioncheck	285	165	10	10	NULL	NULL	NULL	TRUE
+;뉴모드 (at the game interface option new mode)												
+302	13	880116	616	b_play_optioncheck_blue	139	38	10	10	NULL	NULL	NULL	TRUE
+302	14	880117	617	b_play_optioncheck_blue	275	38	10	10	NULL	NULL	NULL	TRUE
+302	15	880118	620	b_play_optioncheck_blue	139	132	10	10	NULL	NULL	NULL	TRUE
+302	16	880119	621	b_play_optioncheck_blue	214	132	10	10	NULL	NULL	NULL	TRUE
+302	17	880120	622	b_play_optioncheck_blue	275	132	10	10	NULL	NULL	NULL	TRUE
+302	18	880121	623	b_play_optioncheck_blue	139	148	10	10	NULL	NULL	NULL	TRUE
+302	19	880122	624	b_play_optioncheck_blue	275	148	10	10	NULL	NULL	NULL	TRUE
+302	20	880123	625	b_play_ok	163	188	116	20	NULL	OK	Saving settings	TRUE
+302	21	880124	626	b_play_giveup	35	188	116	20	NULL	Surrender	Surrender and quit game	TRUE
+302	22	880127	629	b_play_optioncheck_blue	139	164	10	10	NULL	NULL	NULL	TRUE
+302	23	880128	630	b_play_optioncheck_blue	275	164	10	10	NULL	NULL	NULL	TRUE
+302	24	880129	627	b_play_option_check	52	91	10	10	NULL	NULL	NULL	TRUE
+302	25	880130	628	b_play_option_check	52	112	10	10	NULL	NULL	NULL	TRUE
+;												
+303	0	830001	300	b_play_all	25	1	24	13	NULL	NULL	NULL	TRUE
+303	1	830002	301	b_bugle	2	0	24	13	Y	NULL	Send your message to everyone in channels	TRUE
+; 게임 슬롯 당첨 버튼 (at the game interface game slot)												
+304	0	810027	627	b_slot_ok	211	38	25	14	NULL	NULL	NULL	TRUE
+304	1	810028	628	b_slot_retry	239	38	25	14	NULL	NULL	NULL	TRUE
+; 게임 결과 확인 버튼 (at the game interface game result)												
+400	0	999999	999999	b_result_ok	702	358	32	31	NULL	NULL	NULL	TRUE
+400	1	999998	999998	b_ok	359	312	82	18	NULL	NULL	NULL	TRUE
+; 내 아바타 정렬 버튼 (at the avatar shop my avatar sorting menu)												
+431	0	810065	165	b_avatar_garbage	181	270	44	40	Y	Delete	Delete selected avatar item	TRUE
+431	1	810066	166	b_avatar_sortbackimage	118	33	21	19	NULL	NULL	Arrange background avatar(s) on top 	TRUE
+431	2	810067	167	b_avatar_sorthat	13	33	21	19	NULL	NULL	Arrange head avatar(s) on top 	TRUE
+431	3	810068	168	b_avatar_sortclothes	36	33	21	19	NULL	NULL	Arrange body avatar(s) on top 	TRUE
+431	4	810069	169	b_avatar_sortglasses	59	33	21	19	NULL	NULL	Arrange glasses avatar(s) on top 	TRUE
+431	5	810070	170	b_avatar_sortflag	82	33	21	19	NULL	NULL	Arrange flag avatar(s) on top 	TRUE
+431	6	810071	171	b_avatar_sortexitem	141	33	21	19	NULL	NULL	Arrange EX item(s) on top 	TRUE
+431	7	810072	172	b_avatar_sortsetitem	177	33	21	19	NULL	NULL	Arrange weared avatar(s) on top 	TRUE
+431	8	810073	173	b_avatar_sell	132	266	44	44	Y	Sell	Sell selected avatar for gold 	TRUE
+; 내 EX 아이템 정렬 버튼 (at the avatar shop my avatar sorting menu ex)												
+432	0	800173	173	b_avatar_sortbackimage	42	12	21	19	NULL	NULL	Arrange background avatar(s) on top 	TRUE
+432	1	800074	174	b_avatar_sortexitem	19	12	21	19	NULL	NULL	Arrange EX item(s) on top 	TRUE
+432	2	800265	4375	b_avatar_garbage	187	-2	44	40	Y	Delete	Delete selected avatar 	TRUE
+432	3	804366	4376	b_avatar_sell	138	-6	44	44	Y	Sell	Sell selected avatar for gold 	TRUE
+; 게임 채팅 버튼 (at the game interface chatting)												
+500	0	810011	611	b_play_all	341	494	24	13	NULL	All	Send message to all users in the game 	TRUE
+500	1	810012	612	b_play_team	341	494	24	13	NULL	Team	Send message to my team only 	TRUE
+; 												
+501	0	810010	610	b_turn_exit	141	2	10	10	NULL	NULL	NULL	TRUE
+; 이벤트 점수 확인 버튼 (at the event point checking menu)												
+600	0	831039	670	b_event_ok	410	340	33	30	NULL	NULL	NULL	TRUE
+; 이벤트 참가 유도 버튼 (at the event join button)												
+610	0	801001	680	b_eventalert_ok	217	134	30	29	NULL	NULL	NULL	TRUE
+610	1	801002	681	b_eventalert_cancel	257	134	30	29	NULL	NULL	NULL	TRUE
+; 경고 버튼 (at the alert window button)												
+700	0	900002	700	b_popup_ok	231	148	44	19	NULL	NULL	NULL	TRUE
+												TRUE
+;게임 종료 확인 버튼 (when exit)												
+;게임 종료 확인 버튼 (when exit)												
+603	0	800400	400	b_popup_ok	146	148	44	19	NULL	NULL	Exit Gunbound to Windows	TRUE
+603	1	800401	401	b_popup_cancel	203	148	65	19	NULL	NULL	Cancel to exit Gunbound	TRUE
+												
+;초대 확인 버튼 (when invite other player)												
+604	0	800400	400	b_popup_ok	146	148	44	19	NULL	NULL	NULL	TRUE
+604	1	800401	401	b_popup_cancel	203	148	65	19	NULL	NULL	NULL	TRUE
+												
+;WARING 창 버튼 (waring window)												
+605	0	800400	400	b_popup_ok	231	148	44	19	NULL	NULL	NULL	TRUE
+605	1	800401	401	b_popup_cancel	203	148	65	19	NULL	NULL	NULL	TRUE
+605	2	800402	402	b_ok	107	200	82	18	NULL	NULL	NULL	TRUE
+605	3	800403	403	b_cancel	158	200	82	18	NULL	NULL	NULL	TRUE
+;초대 응답 버튼 (when responde invitation)												
+606	0	800400	400	b_popup_ok	231	148	44	19	NULL	NULL	NULL 	TRUE

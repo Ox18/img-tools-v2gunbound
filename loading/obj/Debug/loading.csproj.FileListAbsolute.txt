@@ -1,0 +1,13 @@
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\loading\bin\Debug\loading.exe.config
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\loading\bin\Debug\loading.exe
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\loading\bin\Debug\loading.pdb
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\loading\obj\Debug\loading.csprojAssemblyReference.cache
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\loading\obj\Debug\loading.Properties.Resources.resources
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\loading\obj\Debug\loading.csproj.GenerateResource.cache
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\loading\obj\Debug\loading.csproj.CoreCompileInputs.cache
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\loading\obj\Debug\loading.exe
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\loading\obj\Debug\loading.pdb
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\loading\bin\Debug\ImgTools.exe
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\loading\bin\Debug\ImgTools.pdb
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\loading\obj\Debug\loading.csproj.CopyComplete
+C:\Users\mawi\Downloads\dd\Img-Tools-Gunbound-master\Img-Tools-Gunbound-master\loading\obj\Debug\loading.Form1x.resources
